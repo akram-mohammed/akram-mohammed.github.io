@@ -80,9 +80,9 @@ Note que neste caso um “ConcurrentLinkedQueue” (Lista encadeada concorrente 
 Após implementar seu mailbox basta configurar algum ator para utiliza-lá. Uma forma bem simples de para fazer isso é utilizar o método “withMailbox()” do objeto de propriedades “Props” no momento de criar um novo ator.
 
 ```java
-    ActorRef specialActor = 
-                        system.actorOf(Props.create(SpecialActor.class)
-                              .withMailbox("my-mailbox"));
+ActorRef specialActor = 
+                system.actorOf(Props.create(SpecialActor.class)
+                      .withMailbox("my-mailbox"));
 ```
 
 A string “my-mailbox” deve ser configurada no arquivo application.conf de sua aplicação.
