@@ -1,7 +1,7 @@
 ---
 title: "Dividindo um repositório git sem perder histórico de modificações"
 layout: post
-date: 2015-03-01 22:48
+date: 2015-04-03 22:48
 tag:
 - git
 blog: true
