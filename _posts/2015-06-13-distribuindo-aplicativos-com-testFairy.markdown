@@ -13,8 +13,7 @@ blog: true
 star: true
 author: ravpacheco
 description: Overview sobre o TestFairy, uma ferramenta para distribuição e controle de qualidade de aplicações móveis profissionais
-hidden: true
-externalLink: false
+externalLink: true
 ---
 
 No último sábado participei do [Minas Testing Conference - MTC](http://minastestingconference.com.br/), um evento voltado para as 
