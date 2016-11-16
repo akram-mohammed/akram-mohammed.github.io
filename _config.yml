@@ -10,7 +10,11 @@ description: I love all about code. I'm fullstack developer and tech lead on @Ta
 external-image: false
 picture: assets/images/profile.jpg
 
+<<<<<<< HEAD
 url: ravpacheco.com
+=======
+url: https://ravpacheco.com
+>>>>>>> 0759022fb7c528bddea8c6d17034aba19a026972
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
