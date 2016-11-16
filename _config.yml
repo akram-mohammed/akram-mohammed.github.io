@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 url: http://ravpacheco.github.io
 # your url: http://USERNAME.github.io
-
+real-url: ravpacheco.com
 permalink: /:title/
 
 markdown: kramdown
