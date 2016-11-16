@@ -10,7 +10,6 @@ tag:
 - quality assurance
 - mobile
 blog: true
-star: true
 author: ravpacheco
 description: Overview sobre o TestFairy, uma ferramenta para distribuição e controle de qualidade de aplicações móveis profissionais
 externalLink: true
