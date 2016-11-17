@@ -1,5 +1,5 @@
 ---
-title:  "Criando um chatbot 'currículo' com webhook"
+title:  "Criando um chatbot 'currículo' com a plataforma blip.ai"
 layout: post
 date:   2016-11-05 14:00:00 +0000
 categories: [Casos de uso]
