@@ -18,11 +18,11 @@ não se surprenda se eu falar sobre outras coisas, tento escrever aqui aquilo qu
 
 <p>
 Se quiser receber novidades sobre meu blog utilize <a href="http://ravpacheco.com/feed.xml">este RSS feed</a>. 
-Estou presente no Google+, Twitter, Facebook, LinkedIn, Instagram, YouTube, Spotify, GitHub, StackOverflow, Skype, SlideShare and Medium.
+Estou presente no <a href="http://plus.google.com/+RafaelPachecoBH">Google+</a>, <a href="http://twitter.com/ravpachecco">Twitter</a>, <a href="http://facebook.com/ravpacheco">Facebook</a>, <a href="http://linkedin.com/in/ravpacheco">LinkedIn</a>, <a href="http://instagram.com/ravpachecco">Instagram</a>, <a href="http://youtube.com/ravpacheco">YouTube</a>, <a href="https://open.spotify.com/user/ravpacheco">Spotify</a>, <a href="https://github.com/ravpacheco">GitHub</a>, <a href="http://stackoverflow.com/users/3613766/rafael-pacheco">StackOverflow</a>, <a href="http://pt.slideshare.net/RafaelAvelar1">SlideShare</a> and <a href="https://medium.com/@ravpacheco">Medium</a>.
 </p>
 <p>
 Também tenho um chatbot (<a href="http://ravpacheco.com/bot">clique aqui</a> se você não souber o que é um chatbot) que sabe algumas coisas ao meu respeito. 
-Eu adoraria se você tentasse conversa com ele no Messenger, Telegram, Skype ou através do Blip App.
+Eu adoraria se você tentasse conversa com ele no <a href="https://www.facebook.com/Fale-com-o-Pacheco-2112212492336706/">Messenger</a>, Telegram, Skype ou através do Blip App.
 </p>
 <p>
 Mas, se você quiser apenas me enviar um email, fique a vontade e use <b>ravpacheco@gmail.com</b> ;)
@@ -30,7 +30,7 @@ Mas, se você quiser apenas me enviar um email, fique a vontade e use <b>ravpach
 
 <h2>Porquê <b>ravpacheco</b>?</h2>
 
-<p>Provavelmente, você deve estar se perguntando porque meu blog e vários dos meus id's utilizados nas redes sociais é <b>ravpacheco</b>.
+<p>Provavelmente, você deve estar se perguntando porque meu blog e vários dos meus id's utilizados nas redes sociais são <b>ravpacheco</b>.
 Simples, esta palavra representa as iniciais do meu nome <b>R</b>afael <b>Av</b>elar <b>Pacheco</b> :).
 </p>
 
