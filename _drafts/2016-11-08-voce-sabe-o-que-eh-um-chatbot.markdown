@@ -87,7 +87,17 @@ esteja, rapidamente, é muito importante.
 Dentre as opções disponíveis no mercado, estão [Blip.ai](https://blip.ai/), [BotFramework](https://dev.botframework.com/), 
 [GupShup](https://www.gupshup.io/developer/home) e [PandoraBots](http://www.pandorabots.com/). [Blip.ai](https://blip.ai/) é a única ferramenta 
 desse propósito no Brasil. Além de possuir uma API ela disponibiliza a opção de construir chatbots a partir de templates, sem codificar uma única linha de código.
+Caso queira conhecer melhor a plataforma leia [este post](http://ravpacheco.com/resumo-chatbot-webhook/), nele eu ensino como construir, passo a passo, um chatbot 'currículo'.  
 
-## E agora ?
+## Conclusão
 
-Ao longo deste artigo introduzi o conceito de chatbots, que de novo não tem nada. Apresentei um 
+Neste post introduzi o conceito de chatbots, que de novo não tem nada. Apresentei contextos em que chatbots podem ser 
+utilizados, e um exemplo em que os mesmos podem, inclusive, substituir outros modelos de aplicações. Além de frizar que 
+chatbots **não tem** que ser necessariamente inteligente, mostrei que não é nada simples e barato publicar seu chatbot em 
+vários canais. Para contornar esta dificuldade, apresentei algumas ferramentas que auxiliam o desenvolvedor a construir um único chatbot e 
+disponibilizá-lo em qualquer canal.
+
+Ficou com alguma dúvida, tem alguma sugestão ou crítica ? Mande seu comentário.        
+
+ 
+
