@@ -8,7 +8,7 @@ layout: page
 Sou mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação, ambos pelo CEFET-MG.  
 Trabalho como desenvolvedor fullstack e líder técnico na <a href="http://take.net">@take</a>. Também sou membro do 
 <a href="http://www.lsi.cefetmg.br/">Laboratório de Sistemas Inteligentes</a>, no CEFET-MG.
-Eu amo ensinar, apresentar e influênciar pessoas sobre as coisas que acredito.</p>  
+Eu amo ensinar, discutir, apresentar e influênciar pessoas sobre as coisas que acredito.</p>  
 
 <p>
 Adoro programação, projetos open source, assuntos relacionados a inteligência artificial, algoritmos de otimização, jogos e livros. 
@@ -22,7 +22,7 @@ Estou presente no <a href="http://plus.google.com/+RafaelPachecoBH">Google+</a>,
 </p>
 <p>
 Também tenho um chatbot (<a href="http://ravpacheco.com/bot">clique aqui</a> se você não souber o que é um chatbot) que sabe algumas coisas ao meu respeito. 
-Eu adoraria se você tentasse conversa com ele no <a href="https://www.facebook.com/Fale-com-o-Pacheco-2112212492336706/">Messenger</a>, Telegram, Skype ou através do Blip App.
+Eu adoraria se você tentasse conversar com ele no <a href="https://www.facebook.com/Fale-com-o-Pacheco-2112212492336706/">Messenger</a>, Telegram, Skype ou através do Blip App.
 </p>
 <p>
 Mas, se você quiser apenas me enviar um email, fique a vontade e use <b>ravpacheco@gmail.com</b> ;)
@@ -30,7 +30,7 @@ Mas, se você quiser apenas me enviar um email, fique a vontade e use <b>ravpach
 
 <h2>Porquê <b>ravpacheco</b>?</h2>
 
-<p>Provavelmente, você deve estar se perguntando porque meu blog e vários dos meus id's utilizados nas redes sociais são <b>ravpacheco</b>.
+<p>Provavelmente, você deve estar se perguntando porque meu blog e meu id em várias redes sociais é <b>ravpacheco</b>.
 Simples, esta palavra representa as iniciais do meu nome <b>R</b>afael <b>Av</b>elar <b>Pacheco</b> :).
 </p>
 
@@ -44,7 +44,7 @@ Simples, esta palavra representa as iniciais do meu nome <b>R</b>afael <b>Av</b>
 <h2>Currículos</h2>
 
 <ul class="skill-list">
-	<li><a href="https://github.com/">Foco Professional</a></li>
+	<li><a href="https://github.com/">Profissional</a></li>
 	<li><a href="https://github.com/">Currículo Lattes (foco acadêmico)</a></li>
 </ul>
 
