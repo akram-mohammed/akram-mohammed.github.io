@@ -2,7 +2,7 @@
 title: "Você sabe o que é um <b>chatbot</b>?"
 layout: post
 date: 2016-11-08 22:44
-image: assets/images/chatbot.jpg
+image: /assets/images/2016-11-08-voce-sabe-o-que-eh-um-chatbot/chatbot.jpg
 headerImage: true
 tag:
 - chatbot
