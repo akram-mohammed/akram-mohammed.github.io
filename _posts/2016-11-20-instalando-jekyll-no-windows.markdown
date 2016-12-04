@@ -6,8 +6,9 @@ author: ravpacheco
 lang: pt
 ref: install-jekyll-windows
 tag:
-- chatbot
-- teoria
+- jekyll
+- windows
+- getting starter
 blog: true
 star: true
 description: Aprenda, passo a passo, como instalar o Jekyll no Windows.
@@ -67,29 +68,32 @@ pacotes a partir de uma url que utiliza SSL.
 Para contornar este problema será necessário alterar o endereço do repositorio dos pacotes do RubyGem para 
 uma url sem SSL. Para isso, use o comando abaixo para adicionar o novo endereço
 
- ```shell
-gem sources -a http://rubygems.org/ - will add http source
+ ```ruby
+    gem sources -a http://rubygems.org/ - will add http source
  ```
 
 Agora remova o endereço que possui **https**
 
-```shell
-gem sources --remove https://rubygems.org/ - will remove the https source
- ```
+```ruby
+    gem sources --remove https://rubygems.org/ - will remove the https source
+```
 
 Para checar que a fonte dos pacotes está correta use o comando:
 
-```shell
-gem sources -check sources
- ```
+```ruby
+    gem sources -check sources
+```
 
 A saída correta deverá ser:
 
 ```shell
+
 *** CURRENT SOURCES ***
 
 http://rubygems.org/
- ```
+
+```
+
 ## 5 - Baixe um template ou crie o seu
 
 Existem diversos templates para Jekyll de blogs e sites, caso esteja a procura de algum recomendo dar uma olhada 
@@ -104,7 +108,7 @@ jekyll new myblog
 cd myblog
 # start a local server for your project
 jekyll serve
- ``` 
+``` 
 
 ## Conclusão
 
