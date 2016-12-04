@@ -2,10 +2,13 @@
 title: "Dividindo um repositório git sem perder histórico de modificações"
 layout: post
 date: 2015-04-03 22:48
+author: ravpacheco
+lang: pt
+ref: split-git-repository
 tag:
 - git
 blog: true
-author: ravpacheco
+
 description: Exemplo prático de como dividir um repositório git sem perder histórico de commits. 
 externalLink: true
 ---

@@ -2,12 +2,14 @@
 title: "Diga não a procrastinação!"
 layout: post
 date: 2014-11-20 22:48
-tag:
-- culture
+author: ravpacheco
+lang: pt
+ref: procrastination
 image: /assets/images/2014-11-20-diga-nao-a-procrastinacao/image-1.jpg
 headerImage: true
+tag:
+- culture
 blog: true
-author: ravpacheco
 description: Faça o que tem que ser feito. Diga não a procrastinação.
 externalLink: true
 ---

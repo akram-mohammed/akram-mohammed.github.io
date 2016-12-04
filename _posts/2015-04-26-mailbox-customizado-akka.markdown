@@ -2,12 +2,14 @@
 title: "Como criar um Mailbox customizado com akka"
 layout: post
 date: 2015-04-26 22:48
+author: ravpacheco
+lang: pt
+ref: customizing-akka-mailbox
 tag:
 - akka
 - mailbox
 - java
 blog: true
-author: ravpacheco
 description: Exemplo prático de como criar um maibox customizado para o akka. 
 externalLink: true
 ---

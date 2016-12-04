@@ -2,12 +2,14 @@
 title: "Instalando Jekyll no Windows"
 layout: post
 date: 2016-11-08 22:44
+author: ravpacheco
+lang: pt
+ref: install-jekyll-windows
 tag:
 - chatbot
 - teoria
 blog: true
 star: true
-author: ravpacheco
 description: Aprenda, passo a passo, como instalar o Jekyll no Windows.
 hidden: true
 externalLink: false

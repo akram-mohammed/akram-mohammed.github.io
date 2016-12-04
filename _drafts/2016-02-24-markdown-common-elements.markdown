@@ -2,6 +2,9 @@
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
+author: johndoe
+lang: en
+ref: markdown-common-elements
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +12,6 @@ tag:
 - elements
 blog: true
 star: true
-author: johndoe
 description: Markdown summary with different options
 hidden: true
 externalLink: false

@@ -2,14 +2,15 @@
 title:  "Criando um chatbot 'currículo' com a plataforma blip.ai"
 layout: post
 date:   2016-11-05 14:00:00 +0000
-categories: [Casos de uso]
+author: ravpacheco
+lang: pt
+ref: curriculum-chatbot
 tag: 
 - chatbot
 - blip.ai
 - cases
 blog: true
 star: true
-author: ravpacheco
 description: Aprenda a criar um chatbot 'currículo' através da plataforma blip.ai
 externalLink: true
 ---

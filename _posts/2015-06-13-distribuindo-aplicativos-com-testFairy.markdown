@@ -2,6 +2,9 @@
 title: "Criando um ambiente real de distribuição de aplicativos usando TestFairy"
 layout: post
 date: 2015-06-13 22:44
+author: ravpacheco
+lang: pt
+ref: testfairy
 image: /assets/images/2015-06-13-distribuindo-aplicativos-com-testFairy/mtc2015.jpg
 headerImage: true
 tag:
@@ -10,7 +13,6 @@ tag:
 - quality assurance
 - mobile
 blog: true
-author: ravpacheco
 description: Overview sobre o TestFairy, uma ferramenta para distribuição e controle de qualidade de aplicações móveis profissionais
 externalLink: true
 ---

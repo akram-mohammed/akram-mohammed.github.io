@@ -1,10 +1,12 @@
 ---
 title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his"
 layout: post
-tag: projects
-img: indigo/indigo.png
-projects: true
 author: ravpacheco
+lang: pt
+ref: tilt-project
+img: indigo/indigo.png
+tag: projects
+projects: true
 summary: "List of some small good things that I have learned some day"
 permalink: tilt-project
 jemoji: ":memo:" 

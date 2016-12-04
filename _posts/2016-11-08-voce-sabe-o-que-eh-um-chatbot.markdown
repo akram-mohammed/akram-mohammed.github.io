@@ -2,6 +2,9 @@
 title: "Você sabe o que é um <b>chatbot</b>?"
 layout: post
 date: 2016-11-08 22:44
+author: ravpacheco
+lang: pt
+ref: what-is-chatbot
 image: /assets/images/2016-11-08-voce-sabe-o-que-eh-um-chatbot/chatbot.jpg
 headerImage: true
 tag:
@@ -9,7 +12,6 @@ tag:
 - teoria
 blog: true
 star: true
-author: ravpacheco
 description: Overview sobre um novo modelo de aplicações, os chatbots.
 hidden: true
 externalLink: false

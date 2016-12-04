@@ -2,6 +2,9 @@
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
+author: jamesfoster
+lang: en
+ref: markdown-summary-different-options
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +12,6 @@ tag:
 - components
 - extra
 blog: true
-author: jamesfoster
 description: Markdown summary with different options
 hidden: true
 externalLink: false

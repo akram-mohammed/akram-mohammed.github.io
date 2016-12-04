@@ -2,13 +2,15 @@
 title: "Conceitos de programação distribuída"
 layout: post
 date: 2015-03-01 22:48
+author: ravpacheco
+lang: pt
+ref: distributed-programming
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - programacao distribuida
 - teoria
 blog: true
-author: ravpacheco
 description: Alguns conceitos básicos importantes em programação concorrente e distribuída. 
 externalLink: true
 ---
