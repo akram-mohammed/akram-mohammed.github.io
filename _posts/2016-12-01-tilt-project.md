@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "List of some small good things that I have learned some day"
-permalink: tilt-project
 jemoji: ":memo:" 
 ---
 

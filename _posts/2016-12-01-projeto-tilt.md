@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista de alguns pequenos e interessantes aprendizados do dia a dia."
-permalink: tilt-project
 jemoji: ":memo:" 
 ---
 
