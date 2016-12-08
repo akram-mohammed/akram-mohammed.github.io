@@ -1,18 +1,18 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.ref == "index" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
+        {% if page.ref != "index" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/">Home</a>
         </li>
-        {% endif %} {% if site.blog == true %} {% if page.title != "Blog" %}
+        {% endif %} {% if site.blog == true %} {% if page.ref != "blog" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/blog">Blog</a>
         </li>
-        {% endif %} {% endif %} {% if site.projects == true %} {% if page.title != "Projects" %}
+        {% endif %} {% endif %} {% if site.projects == true %} {% if page.ref != "projects" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/projects">Projects</a>
         </li>
-        {% endif %} {% endif %} {% if site.about == true %} {% if page.title != "About" %}
+        {% endif %} {% endif %} {% if site.about == true %} {% if page.ref != "about" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/about">About</a>
         </li>
@@ -21,14 +21,20 @@
 </nav>
 
 <!--Add dinamic language get-->
-<nav class="nav-language" hidden="true">
+<nav class="{% if page.ref == "index"  %}nav-language-home{% else %}nav-language{% endif %}">
     <ul class="list">
-        
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
         <li class="item">
-            <a class="link" href="{{ site.url }}/">en</a>
+            <a href="{{ post.url }}" class="link">{{ post.lang }}</a>
         </li>
+        {% endfor %}
+
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
         <li class="item">
-            <a class="link" href="{{ site.url }}/">pt</a>
+            <a href="{{ page.url }}" class="link">{{ page.lang }}</a>
         </li>
+        {% endfor %}
     </ul>
 </nav>
