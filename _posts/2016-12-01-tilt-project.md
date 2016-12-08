@@ -2,7 +2,7 @@
 title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his"
 layout: post
 author: ravpacheco
-lang: pt
+lang: en
 ref: tilt-project
 img: indigo/indigo.png
 tag: projects
