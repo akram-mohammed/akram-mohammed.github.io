@@ -17,9 +17,7 @@ externalLink: true
 
 <span class="evidence">Observação: Este post foi originalmente escrito para o [blog](http://blog.blip.ai/2016/12/28/entendendo-as-extensoes.html) do blip.ai</span>
 
-<figure>
-    <img class="alignnone size-full" src="http://i.imgur.com/PXGqPty.png" alt="chatbots" />
-</figure>
+![Chatbots](http://i.imgur.com/PXGqPty.png)
 
 Se você já criou algum chatbot, provavelmente já precisou de várias ferramentas auxiliares. Agendar o envio de alguma mensagem, salvar informações de seus clientes em 
 um local seguro ou *trackear* eventos ocorridos, são exemplos de tarefas simples que podem demandar um grande esforço para serem realizadas.
