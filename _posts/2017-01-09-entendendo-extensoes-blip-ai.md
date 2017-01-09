@@ -5,6 +5,8 @@ date:   2017-01-09 14:00:00 +0000
 author: ravpacheco
 lang: pt
 ref: blip-extensions
+image: /assets/images/2017-01-09-entendendo-extensoes-blip-ai/image_0.jpg
+headerImage: true
 tag: 
 - chatbot
 - blip.ai
@@ -16,8 +18,6 @@ externalLink: true
 ---
 
 <span class="evidence">Observação: Este post foi originalmente escrito para o [blog](http://blog.blip.ai/2016/12/28/entendendo-as-extensoes.html) do blip.ai</span>
-
-![Chatbots](http://i.imgur.com/PXGqPty.png)
 
 Se você já criou algum chatbot, provavelmente já precisou de várias ferramentas auxiliares. Agendar o envio de alguma mensagem, salvar informações de seus clientes em 
 um local seguro ou *trackear* eventos ocorridos, são exemplos de tarefas simples que podem demandar um grande esforço para serem realizadas.
@@ -86,7 +86,7 @@ Para exemplificar o uso das extensões vamos criar um chatbot utilizando o SDK C
 [neste link](https://portal.blip.ai/#/docs/sdks/csharp/installing). A utilização de cada extensão será apresentada através de exemplos simples, mas indispensáveis para quem 
 está desenvolvendo qualquer chatbot.
 
-{% include image.html name="image_0.jpg" alt="Chatbots com extensões" width="693px" %}
+![Chatbots com extensões](../assets/images/2017-01-09-entendendo-extensoes-blip-ai/image.png)
 
 **Obs.: Todos os casos abaixo foram criados tomando como base a classe *PlainTextMessageReceiver*, adicionada automaticamente no momento da instalação do SDK C#.**
 
