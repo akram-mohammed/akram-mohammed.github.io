@@ -35,8 +35,8 @@ Atualmente, o BLiP possui as seguintes extensões disponíveis:
 
 <table>
   <tr>
-    <td>Extensão</td>
-    <td>Descrição</td>
+    <td><b>Extensão</b></td>
+    <td><b>Descrição</b></td>
     <td></td>
   </tr>
   <tr>
