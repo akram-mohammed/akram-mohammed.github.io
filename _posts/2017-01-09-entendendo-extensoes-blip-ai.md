@@ -1,5 +1,5 @@
 ---
-title:  "Facilitando a criação de seu chatbot através das extensões"
+title:  "Facilitando a criação de seu chatbot através das extensões BLiP"
 layout: post
 date:   2017-01-09 14:00:00 +0000
 author: ravpacheco
