@@ -57,7 +57,8 @@ Apesar de ter uma configuração estranha, no meu ponto de vista, o Gulp realiza
 tive muita dificuldade para realizar tarefas de modificação de variáveis durante o processo de geração de bundles. Caso esteja em dúvida sobre o que utilizar sugiro que 
 analise o Gulp.
 
-https://developers.google.com/speed/pagespeed/insights/?url=ravpacheco.com&tab=mobile
+Se sua aplicação já está pronta e publicada talvez seja a hora de analisar sua performance. O [PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=ravpacheco.com&tab=mobile)
+é uma ferramenta do Google muito interessante. Além de analisar a performance de carregamento ele apresenta diversos insights que podem te ajudar a otimizar sua aplicação.
 
 Conclusão:
 
@@ -66,13 +67,13 @@ de opções de ferramentas pode mais atrapalhar do que ajudar.
 
 Neste post, apresento um *overview* sobre algumas ferramentas que considero interessantes para a construção de projetos frontend de qualidade, com o objetivo de contextualizar novos navegantes.
 
-* SASS / LESS
-* ES6
-* babel
-* caniuse
-* testling
-* Gulp
-* PageSpeed
+* SASS / LESS - pré processadores para arquivos de estilo
+* ES6 - nova versão do Javascript
+* babel - *transpilador* de código ES5 para ES6
+* caniuse - verifica a compatibilidade de diversos elementos da web em diversos browsers
+* testling - testes de compatibilidade com os principais browsers do mercado
+* Gulp - aplicação para automatização de tarefas (ou *build system*)
+* PageSpeed - insights sobre a performance de carregamento de sua aplicação web
 
 Considero que a curva de aprendizado necessária para dar os primeiros passos na web, ou melhor para as primeiras braçadas, é bem íngrime. Assim espero que 
 minhas reflexões possam não só me ajudar a entender um pouco melhor o contexto, como também ajudar aos demais marinheiros de primeira viagem.
