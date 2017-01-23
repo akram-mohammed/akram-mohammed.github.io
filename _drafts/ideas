@@ -20,3 +20,6 @@ https://channel9.msdn.com/Events/Connect/2016?sort=status&direction=asc&c=craig-
 - [ ] Basic diferences between state-shared and actor model (with sample)
 - [ ] Introductions about R language
 - [ ] Open D-OPTIMAS (maybe just a concepts)
+- [ ] Como tornar seu código JavaScript mais seguro ? (http://www.jslint.com/help.html), http://jshint.com/about/ falar também sobre typescript
+Pode começar falando que testes de unidade ajudam mas no caso de linguagens fracamente tipadas como javascript o uso de outras ferramentas, como jsLint e typescript, podem aumentar a qualidade 
+e reduzir a chance de erros em seu código.
