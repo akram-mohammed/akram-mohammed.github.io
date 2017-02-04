@@ -17,7 +17,7 @@ description: Apenas algumas das minhas primeiras impressões sobre o botathon do
 externalLink: true
 ---
 
-No último fim de semana (02/02/17 a 04/02/2017) participei da Campus Party Brasil 2017 - CPBr10, a convite do Facebook, 
+No último fim de semana (02/02/17 a 04/02/2017), participei da Campus Party Brasil 2017 - CPBr10, a convite do Facebook, 
 como mentor de seu 1° Botathon (hackathon para construção de chatbots). O convite aconteceu devido a uma parceria 
 existente entre a [take](http://take.net/) (empresa que trabalho) e o próprio Facebook. 
 O objetivo principal do botathon foi divulgar o Messenger como principal plataforma para o desenvolvimento de 
