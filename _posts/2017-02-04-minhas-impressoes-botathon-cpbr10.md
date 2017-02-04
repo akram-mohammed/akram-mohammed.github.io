@@ -48,7 +48,7 @@ com seus principais clientes, os desenvolvedores.
 Ao longo do evento presenciei o desenvolvimento de várias ideias interessante, algumas ficaram apenas no papel e outras foram construidas 
 até o final, com a produção de chatbots incríveis. Os principais destaques, na minha opinião, foram os bots: [MigoBot](https://www.facebook.com/migomessenger/), 
 [DietaBuddy](http://m.me/dietabuddy) (do Joselito), BB8 ([Num Pulo](https://www.facebook.com/numpulo)), Muziks além 
-do grande vencedor o [PrefeitoBot](https://www.facebook.com/PrefeitoBot-377856882599093/?fref=ts). Destes, apenas o 
+do grande vencedor o [PrefeitoBot](https://www.messenger.com/t/prefeitobot/). Destes, apenas o 
 MigoBot não foi classificado para a final, mas deixo aqui o meu reconhecimento ao grande trabalho da equipe. 
 Quem quiser conhecer mais sobre o MigoBot [clique aqui](https://www.facebook.com/migomessenger/).
 
