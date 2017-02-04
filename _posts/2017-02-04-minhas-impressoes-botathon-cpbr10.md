@@ -38,7 +38,7 @@ O evento contou com **400 inscritos** (entre designers, desenvolvedores, nutról
 Durante as **40 horas do hackathon** tive varias experiências positivas. Troca de ideias, networking, feedbacks 
 positivos e negativos sobre nossa plataforma e muito aprendizado. Alem disso tive o prazer de conhecer pessoas 
 super legais e atenciosas, que vem contribuindo muito para a expansão do ecossistema de chatbots no Brasil, como 
-o Thiago Ueda (da Movile), Rafael Amorim (da Robosin), o Dário dal Piaz (do Facebook) entre outras.
+o Thiago Ueda (da Movile), Rafael Amorim (da Robosim), o Dário dal Piaz (do Facebook) entre outras.
 
 Especialmente para a Take o evento serviu como mais uma grande oportunidade de validação da plataforma [BLiP](https://blip.ai/) 
 com seus principais clientes, os desenvolvedores.
