@@ -91,7 +91,8 @@ Agradeço mais uma vez ao Facebook pela oportunidade de participar do evento e m
 que de alguma forma me ajudaram a crescer ainda mais como profissional. 
 A troca de experiências com cada um de vocês foi incrível, muito obrigado! 
 
-Obs.: Este texto contou com a ajuda do [Caio Calado (medium link)](goo.gl/lCk2Qm), a quem eu quase sempre me recorro quando o assunto é chatbot. 
-Obs.2: Todas as fotos super legais também foram fotografadas pelo [Caio Calado](goo.gl/lCk2Qm) ;)
+**Obs.:** Este texto contou com a ajuda do [Caio Calado (medium link)](goo.gl/lCk2Qm), a quem eu quase sempre recorro quando o assunto é chatbot. 
+
+**Obs.2:** Todas as fotos super legais também foram fotografadas pelo [Caio Calado](goo.gl/lCk2Qm) ;)
 
 
