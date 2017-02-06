@@ -29,7 +29,7 @@ a plataforma da take para construção de chatbots, estive presente para auxilia
 
 ![Mentores do evento](../assets/images/2017-02-04-minhas-impressoes-botathon-cpbr10/mentores.jpg)
 
-O evento contou com **400 inscritos** (entre designers, desenvolvedores, nutrólogos, linguistas, DJ e profissionais de outras áreas), 
+O evento contou com **400 inscritos** (entre designers, desenvolvedores, linguistas, DJ e profissionais de outras áreas), 
 **divididos em 95 equipes**. Segundo a organização do próprio Facebook, o evento contou com o envolvimento de 
 **mais de 80.000 pessoas** \o/.
 
@@ -53,7 +53,7 @@ MigoBot não foi classificado para a final, mas deixo aqui o meu reconhecimento 
 Quem quiser conhecer mais sobre o MigoBot [clique aqui](https://www.facebook.com/migomessenger/).
 
 A importância de uma equipe multidisciplinar na construção de um chatbot, que realmente faça a diferença para os usuários, ficou evidente com 
-o trabalho da equipe DrNutrix, que era composta por exemplo, por uma nutróloga, uma linguísta e um dev. 
+o trabalho da equipe DrNutrix, que era composta por exemplo, por uma estudante de nutrição, uma linguísta e um dev. 
 Ficou evidente a contribuição de cada integrante ao analisar o resultado final do designer da conversa.
 
 ![Evento](../assets/images/2017-02-04-minhas-impressoes-botathon-cpbr10/mentoria2.jpg)
