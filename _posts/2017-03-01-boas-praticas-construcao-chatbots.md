@@ -32,32 +32,34 @@ Para aqueles que preferem uma leitura mais dinâmica deixo também a apresentaç
 
 De todas as boas práticas apresentadas, chamo a atenção para 5 que na minha opinião são as principais:
 
-* Defina a interface da conversa
+## 1. Defina a interface da conversa
  
 Assim como qualquer software, um chatbot possui uma interface com o usuário. A diferença entre uma aplicação convencional e um chatbot é que este, entrega um serviço 
 através de uma conversa. Portanto, pense banstante em todas as mensagens trocadas com o usuário. A junção destas mensagens deve parecer uma conversa fluída, de forma 
 parecida com a que você conversa com sua mãe, por exemplo.
 
-* Mostre o caminho
+## 2. Mostre o caminho
 
-Algumas vezes, não é fácil para o usuário expressar, através de frases, (que seu chatbot entenda) o que ele realmente deseja. Por isso, mostre e induza seu usuário, 
-sempre que possível, para o caminho **feliz**. Este deve ser o caminho mais rápido e fácil para que seu usuário obtenha o serviço que o chatbot se propõe a fazer, 
+Algumas vezes, não é fácil para o usuário expressar, através de frases, (que seu chatbot entenda) o que ele realmente deseja. **Por isso, mostre e induza seu usuário, 
+sempre que possível, para o caminho feliz**. Este deve ser o caminho mais rápido e fácil para que seu usuário obtenha o serviço que o chatbot se propõe a fazer, 
 por isso mantenha-o simples e intuitivo. De qualquer forma, é essencial estar preparado para caminhos estranhos e tortuosos. Nem todo os cliente seguirá o caminho feliz 😉.
 
-* Informe os limites
+## 3. Informe os limites
 
 Seu chatbot de previsão de tempo não precisa saber sobre culinária. Da mesma maneira que seu chatbot assistente de cozinha, não precisa entender de política. 
 Mais uma vez, assim como qualquer software, um chatbot deve resolver o problema para o qual ele foi pensado. Portanto, caso o usuário peça algo que seu chatbot não 
 foi projetado para (ou ainda não consegue) responder, informe-o sobre esta limitação. Não há nenhum demérito nisto.
 
-* Solicite feedbacks (...e principalmente, aprenda com eles 😉)
+## 4. Solicite feedbacks (...e principalmente, aprenda com eles 😉)
 
 Feedbacks, negativos ou positivos, são sempre bem vindos. Na pior das hipóteses eles servem como uma auto-avaliação, já na melhor das hipóteses eles te ajudam a construir aplicações que realmente ajudam os usuários. Especialmente no mundo de chatbots os feedbacks estão a um clique, basta escrever algo e enviar. Por isso esteja muito atento a TODOS os feedbacks, e se possível incentive-os.
 
-* Conversa não é bala de prata
+## 5. Conversa não é bala de prata
 
 Por fim, destaco um último ponto sobre boas práticas: "Conversa não é bala de prata".
 Concordo com o [Roberto Costa](https://www.facebook.com/roberto.c.deoliveira.7?fref=ts)(CEO da Take) quando ele diz que tudo pode ser resolvido através de uma boa (inteligente) conversa, entretanto acho que em alguns momentos conversas textuais não são as mais adequadas. No momento da construção de seu chatbot, avalie sempre os recursos de cards ricos (Menus, WebViews, Quick Replies), em algumas ocasiões eles serão mais indicados do que apenas texto. *Quase sempre uma imagem vale mais que mil palavras*
+
+** Obs.: [Sugestão de leitura sobre boas práticas de chatbot.](https://medium.com/botsbrasil/design-para-chatbots-9-princ%C3%ADpios-para-um-bom-design-693be5fd3a98#.camsx4c86) **
 
 -----
 
