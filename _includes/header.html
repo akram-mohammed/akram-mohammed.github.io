@@ -31,8 +31,13 @@
 <script src="https://unpkg.com/blip-sdk-web@0.1.2" type="text/javascript"></script>
 <script>
   (function () {
+
+    var options = {
+        title: 'Me envie uma mensagem :)',
+    };
+
     new BlipWebSDK.ChatBuilder()
       .withApiKey('3CE58724-1073-4823-922F-5BFE757BA4A6')
-      .build();
+      .build(options);
   })();
 </script>
