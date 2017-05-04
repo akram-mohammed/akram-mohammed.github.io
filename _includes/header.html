@@ -28,12 +28,20 @@
 
 {% include nav.html %}
 
-<script src="https://unpkg.com/blip-sdk-web@0.1.2" type="text/javascript"></script>
+<script src="https://unpkg.com/blip-chat-web@0.1.15" type="text/javascript"></script>
 <script>
   (function () {
 
-    var options = {
-        title: 'Me envie uma mensagem :)',
+    var options = 
+    {
+        config: {
+            authType: BlipWebSDK.AuthType.LOGIN
+        },
+        window: {
+            title: 'Send me a message 😉',
+            hideMenu: false,
+            widgetColor: '#222'
+        }
     };
 
     new BlipWebSDK.ChatBuilder()
