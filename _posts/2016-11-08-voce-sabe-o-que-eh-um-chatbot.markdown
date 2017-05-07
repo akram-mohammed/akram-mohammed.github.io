@@ -15,6 +15,7 @@ star: true
 description: Overview sobre um novo modelo de aplicações, os chatbots.
 hidden: true
 externalLink: false
+category: blog
 ---
 
 Chatbots, também conhecidos como '*bots*', '*chatterbot*', '*smart contacts*' ou contatos inteligentes 

@@ -12,6 +12,7 @@ tag:
 blog: true
 description: Exemplo prático de como criar um maibox customizado para o akka. 
 externalLink: true
+category: blog
 ---
 
 Uma das estruturas mais importantes do toolkit akka são os mailbox presentes em todos os atores.

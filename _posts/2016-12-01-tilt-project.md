@@ -8,7 +8,8 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "List of some small good things that I have learned some day"
-jemoji: ":memo:" 
+jemoji: ":memo:"
+category: project
 ---
 
 > Today I Learned This

@@ -8,7 +8,8 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
-jemoji: ":memo:" 
+jemoji: ":memo:"
+category: project
 ---
 
 In optimization, many important problems are NP-hard which are very hard to solve via mathematical programming due to their computational nature. 

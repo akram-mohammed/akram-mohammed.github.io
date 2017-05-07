@@ -14,6 +14,7 @@ star: true
 description: Aprenda, passo a passo, como instalar o Jekyll no Windows.
 hidden: true
 externalLink: false
+category: blog
 ---
 
 [//]: # (entenda melhor porquê aqui)

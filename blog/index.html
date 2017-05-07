@@ -10,7 +10,8 @@ ref: blog
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
-		{% for post in paginator.posts %}
+		{% assign posts=site.posts | where:"lang", page.lang %}	
+		{% for post in posts %}
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}
@@ -22,7 +23,11 @@ ref: blog
 	{% else %}
 		{% assign posts=site.posts | where:"lang", page.lang %}	
 		{% for post in posts %}
-			{% include blog-post.html %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
 		{% endfor %}
 	{% endif %}
 </section>

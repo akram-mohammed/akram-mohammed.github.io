@@ -15,6 +15,7 @@ blog: true
 star: true
 description: Acelere o desenvolvimento de seu chatbot com as extensões da plataforma blip.ai
 externalLink: true
+category: blog
 ---
 
 <span class="evidence">Observação: Este post foi originalmente escrito para o [blog](http://blog.blip.ai/2016/12/28/entendendo-as-extensoes.html) do blip.ai</span>

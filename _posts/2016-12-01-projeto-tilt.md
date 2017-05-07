@@ -1,6 +1,6 @@
 ---
 title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his"
-layout: post
+layout: page
 author: ravpacheco
 lang: pt
 ref: tilt-project
@@ -8,7 +8,8 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista de alguns pequenos e interessantes aprendizados do dia a dia."
-jemoji: ":memo:" 
+jemoji: ":memo:"
+category: project
 ---
 
 > Today I Learned This (Hoje eu aprendi isto)

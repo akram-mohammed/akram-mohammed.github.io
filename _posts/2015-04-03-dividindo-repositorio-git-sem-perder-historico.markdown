@@ -8,7 +8,7 @@ ref: split-git-repository
 tag:
 - git
 blog: true
-
+category: blog
 description: Exemplo prático de como dividir um repositório git sem perder histórico de commits. 
 externalLink: true
 ---

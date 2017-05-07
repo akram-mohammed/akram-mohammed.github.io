@@ -8,7 +8,8 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Introdução ao D-OPTIMAS <i>Distributed multi agent system</i>, um software para resolução de problemas de otimização de diferentes classes que desenvolvi durante meu mestrado."
-jemoji: ":memo:" 
+jemoji: ":memo:"
+category: project
 ---
 
 Vários problemas em otimização são denominados NP-difíceis devido a dificuldade para solucioná-los de maneira ótima, através de programação matemática, em um tempo razoável. 

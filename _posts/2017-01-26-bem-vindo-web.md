@@ -14,6 +14,7 @@ blog: true
 star: false
 description: Overview de algumas ferramentas importantes para a construção de um projeto web de qualidade 
 externalLink: true
+category: blog
 ---
 
 Nos últimos anos, tenho trabalhado em projetos que demandam conhecimentos em aplicações backend, mobile e frontend (web). Profissionais com este perfil, são 

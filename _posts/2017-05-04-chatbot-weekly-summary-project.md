@@ -8,7 +8,8 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Streams list of Caio's weekly sumary commenting about chatbot"
-jemoji: ":memo:" 
+jemoji: ":memo:"
+category: project
 ---
 
 > Chatbot weekly summary

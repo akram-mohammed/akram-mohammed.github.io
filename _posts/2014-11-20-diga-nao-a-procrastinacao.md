@@ -12,6 +12,7 @@ tag:
 blog: true
 description: Faça o que tem que ser feito. Diga não a procrastinação.
 externalLink: true
+category: blog
 ---
 
 <span class="evidence">“Não deixe para amanha nem o café, nem a atitude que você pode tomar hoje”</span>

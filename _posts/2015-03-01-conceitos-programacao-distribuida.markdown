@@ -13,6 +13,7 @@ tag:
 blog: true
 description: Alguns conceitos básicos importantes em programação concorrente e distribuída. 
 externalLink: true
+category: blog
 ---
 
 Nos últimos dias comecei a estudar o framework Akka, para programação baseada em atores (discutirei mais sobre o Akka em  uma póxima oportunidade), e por isso me vi obrigado a revisitar alguns conceitos simples, mas confusos sobre programação distribuída. Este post é uma compilação de alguns destes tópicos. Caso tenha alguma dúvida, crítica ou sugestão deixe seu comentário.

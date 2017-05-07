@@ -13,6 +13,7 @@ blog: true
 star: true
 description: Aprenda a criar um chatbot 'currículo' através da plataforma blip.ai
 externalLink: true
+category: blog
 ---
 
 <span class="evidence">Observação: Este post foi originalmente escrito para o [blog](http://blog.blip.ai/2016/11/05/resumo-chatbot-webhook.html) do blip.ai</span>

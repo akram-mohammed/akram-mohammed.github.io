@@ -15,6 +15,7 @@ tag:
 blog: true
 description: Overview sobre o TestFairy, uma ferramenta para distribuição e controle de qualidade de aplicações móveis profissionais
 externalLink: true
+category: blog
 ---
 
 No último sábado participei do [Minas Testing Conference - MTC](http://minastestingconference.com.br/), um evento voltado para as 

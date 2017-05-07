@@ -15,6 +15,7 @@ blog: true
 star: true
 description: Uma compilação de boas práticas para a construção de chatbots que fazem a diferença.
 externalLink: true
+category: blog
 ---
 
 Na última sexta-feira (24/02/17), apresentei (em parceria com o [Breno Queiroz](http://brenoqueiroz.com.br)) no [Café c/ Bytes](https://www.meetup.com/pt-BR/takenet/) - **um meetup sobre tecnologia promovido, mensalmente, pela [Take](http://take.net/)**, __uma compilação de boas práticas para a construção de chatbots relevantes__. 

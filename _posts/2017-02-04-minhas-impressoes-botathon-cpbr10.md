@@ -15,6 +15,7 @@ blog: true
 star: true
 description: Apenas algumas das minhas primeiras impressões sobre o botathon do Facebook na CPBr10 
 externalLink: true
+category: blog
 ---
 
 No último fim de semana (02/02/17 a 04/02/2017), participei da Campus Party Brasil 2017 - CPBr10, a convite do Facebook, 

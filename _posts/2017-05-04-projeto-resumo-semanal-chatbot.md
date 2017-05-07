@@ -8,7 +8,8 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista das lives sobre os resumos (feitos pelo Caio Calado) semanais de chatbot"
-jemoji: ":memo:" 
+jemoji: ":memo:"
+category: project
 ---
 
 > Resumo semanal Chatbot
