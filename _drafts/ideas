@@ -1,10 +1,10 @@
 # Some ideas to talk, try or think about
 
-- [x] How to install a jekyll on windows environment
-- [x] Add the tilt as a project
+- [ ] Open D-OPTIMAS (maybe just a concepts)
+- [ ] Translate blog pages
 - [ ] Add a new page on site to talk about all my tools
 - [ ] About chocolatey, starter box and my script 
-- [x] Translate the blog
+
 - [ ] Trocar pagina about para se comportar com o header da home e mexer no texto que fala sobre as redes sociais (elas já vão estar aparecendo no topo)
 - [ ] Make a personal chatbot
 - [ ] Blog about a match scheduler chatbot
@@ -19,7 +19,7 @@ https://channel9.msdn.com/Events/Connect/2016?sort=status&direction=asc&c=craig-
 - [ ] What is a actor model
 - [ ] Basic diferences between state-shared and actor model (with sample)
 - [ ] Introductions about R language
-- [ ] Open D-OPTIMAS (maybe just a concepts)
+
 - [ ] Como tornar seu código JavaScript mais seguro ? (http://www.jslint.com/help.html), http://jshint.com/about/ falar também sobre typescript
 Pode começar falando que testes de unidade ajudam mas no caso de linguagens fracamente tipadas como javascript o uso de outras ferramentas, como jsLint e typescript, podem aumentar a qualidade 
 e reduzir a chance de erros em seu código.
