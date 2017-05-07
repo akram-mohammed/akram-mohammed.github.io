@@ -1,15 +1,16 @@
 ---
-title: "Indigo, minimalist jekyll theme"
+title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
 date: 2016-01-23 22:10
 author: johndoe
 lang: en
 ref: indigo-theme
-image: /assets/images/jekyll-logo-light-solid.png
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 tag: jekyll
 projects: true
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
 hidden: true # don't count this post in blog pagination
 externalLink: false
 jemoji: ':ramen:'

@@ -10,8 +10,8 @@ headerImage: false
 tag:
 - markdown
 - elements
-blog: true
 star: true
+category: blog
 description: Markdown summary with different options
 hidden: true
 externalLink: false

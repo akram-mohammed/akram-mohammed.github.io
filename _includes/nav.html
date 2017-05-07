@@ -4,19 +4,27 @@
         <li class="item">
             <a class="link" href="{{ site.url }}/">Home</a>
         </li>
-        {% endif %} {% if site.blog == true %} {% if page.ref != "blog" %}
+        {% endif %} 
+        {% if site.blog == true %} {% if page.ref != "blog" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/blog">Blog</a>
         </li>
-        {% endif %} {% endif %} {% if site.projects == true %} {% if page.ref != "projects" %}
+        {% endif %} {% endif %} 
+        {% if site.projects == true %} {% if page.ref != "projects" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/projects">Projects</a>
         </li>
-        {% endif %} {% endif %} {% if site.about == true %} {% if page.ref != "about" %}
+        {% endif %} {% endif %} 
+        {% if site.about == true %} {% if page.ref != "about" %}
         <li class="item">
             <a class="link" href="{{ site.url }}/about">About</a>
         </li>
         {% endif %} {% endif %}
+        {% if site.resume == true %}
+            <li class="item">
+                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+            </li>
+        {% endif %}
     </ul>
 </nav>
 
