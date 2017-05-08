@@ -2,27 +2,52 @@
     <ul class="list">
         {% if page.ref != "index" %}
         <li class="item">
+            {% if page.lang == "pt" %}
+            <a class="link" href="{{ site.url }}/inicio">Inicio</a>
+            {% endif %}
+            {% if page.lang == "en" %}
             <a class="link" href="{{ site.url }}/">Home</a>
+            {% endif %}
         </li>
         {% endif %} 
         {% if site.blog == true %} {% if page.ref != "blog" %}
         <li class="item">
+            {% if page.lang == "pt" %}
             <a class="link" href="{{ site.url }}/blog">Blog</a>
+            {% endif %}
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/blog">Blog</a>
+            {% endif %}
         </li>
         {% endif %} {% endif %} 
         {% if site.projects == true %} {% if page.ref != "projects" %}
         <li class="item">
+            {% if page.lang == "pt" %}
+            <a class="link" href="{{ site.url }}/projetos">Projetos</a>
+            {% endif %}
+            {% if page.lang == "en" %}
             <a class="link" href="{{ site.url }}/projects">Projects</a>
+            {% endif %}
         </li>
         {% endif %} {% endif %} 
         {% if site.about == true %} {% if page.ref != "about" %}
         <li class="item">
+            {% if page.lang == "pt" %}
+            <a class="link" href="{{ site.url }}/sobre">Sobre</a>
+            {% endif %}
+            {% if page.lang == "en" %}
             <a class="link" href="{{ site.url }}/about">About</a>
+            {% endif %}
         </li>
         {% endif %} {% endif %}
         {% if site.resume == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+                {% if page.lang == "pt" %}
+                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-pt-url }}{% else %}{{ site.url }}/{{ site.resume-pt-url }}{% endif %}">Currículo</a>
+                {% endif %}
+                {% if page.lang == "en" %}
+                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Curriculum</a>
+                {% endif %}
             </li>
         {% endif %}
     </ul>

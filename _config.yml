@@ -1,6 +1,6 @@
 # main text of home
 name: Rafael Pacheco
-bio: I'm trying to do a better world beyond code
+bio: I'm trying to do a better world through of code
 
 # twitter summary info
 description: I love all about code. I'm fullstack developer and tech lead on @Takenet. Reactive programmer enthusiast and Akka develop BH meetup organizer. 
@@ -12,9 +12,10 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-#resume: true
-#resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume: true
+resume-external: true
+resume-url: https://goo.gl/OFHFV8
+resume-pt-url: https://goo.gl/LRzSG3
 
 url: http://ravpacheco.com
 
