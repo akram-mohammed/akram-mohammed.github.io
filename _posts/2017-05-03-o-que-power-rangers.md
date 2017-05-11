@@ -22,7 +22,8 @@ Não tenho nenhum problema em dizer que sempre fui apaixonado com os Power Range
 
 **Sempre que falo sobre esse assunto gosto de mostrar uma das fotos (abaixo) preferidas da minha mãe.**
 
-![Eu Ranger :)](../assets/images/2017-05-03-o-que-power-rangers/i-ranger.jpg)
+<img src="../assets/images/2017-05-03-o-que-power-rangers/i-ranger.jpg" 
+    alt="Eu Ranger :)" style="display: block; margin: 0 auto;">
 
 Na foto, é possível identificar um  pequeno indivíduo vestido de Ranger preto. Apesar da pouca idade, acho que tinha mais ou menos 6 anos, dá pra perceber que eu já demonstrava uma certa habilidade para morfar 😂😂.
 
