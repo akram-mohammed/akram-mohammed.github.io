@@ -8,7 +8,7 @@ ref: blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
+		<p class="text-center">Nenhuma publicação por enquanto!</p>
 	{% elsif site.paginate %}
 		{% assign posts=site.posts | where:"lang", page.lang %}	
 		{% for post in posts %}
