@@ -5,7 +5,7 @@ date:   2017-05-20314:00:00 +0000
 author: ravpacheco
 lang: pt
 ref: business-model-chatbot
-#image: /assets/images/2017-05-03-o-que-power-rangers/power-rangers-cover.jpg
+image: /assets/images/2017-05-20-modelo-de-negocio-chatbot/money.png
 headerImage: true
 tag: 
 - chatbot
