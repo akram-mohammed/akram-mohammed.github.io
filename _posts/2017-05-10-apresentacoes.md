@@ -16,18 +16,53 @@ Lista de algumas das minhas apresentações
 
 2017
 
-Fotos
+- **Março:**
 
-* Título, *Evento*.
+    * **Título:** <span class="evidence">Boas práticas para a construção de chatbots relevantes</span>
+    * **Descrição:** Uma compilação sobre algumas práticas indispensáveis para a construção de chatbots relevantes. [Clique aqui](http://ravpacheco.com/boas-praticas-construcao-chatbots/) para saber mais.
 
-**Summary:** Link
+    * **Evento:** [Café com Bytes 2017](https://www.meetup.com/pt-BR/BHTEC-Talks/events/222168031/)
+
+        O Café Com Bytes é um evento periódico que acontece na [Take](http://take.net), empresa de tecnologia de Belo Horizonte. Durante o evento são discutidos diversos assuntos de interesse da comunidade de desenvolvedores, como: novas tecnologias, projetos realizados na empresa, mercado de mobilidade, mercado de chatbots e etc.
+    
+        **Mais informações:** [https://www.meetup.com/pt-BR/takenet/](https://www.meetup.com/pt-BR/takenet/)
+
+        <iframe src="//www.slideshare.net/slideshow/embed_code/key/5vYEYgppMTckZN" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafaelAvelar1/boas-prticas-para-a-construo-de-chatbots-relevantes" title="Boas práticas para a construção de chatbots relevantes." target="_blank">Boas práticas para a construção de chatbots relevantes.</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/RafaelAvelar1">Rafael Avelar Pacheco</a></strong> </div>
+
+- **Março:**
+
+    ![Fotos](../assets/images/2017-05-10-apresentacoes/sebrae-painel-startups.jpg)
+
+    * **Título:** <span class="evidence">Chatbot - A revolução da comunicação entre pessoas e empresas.</span>
+    * **Descrição:** Palestra realizada para turmas de ensino técnico em informática de Ribeirão das Neves - MG. Nesta apresentação, discuto um pouco do cenário atual de chatbots e como os mesmos estão transformando a forma como as pessoas conversam com as empresas.
+
+    * **Evento:** [Painel: A Revolução das Startups (Sebrae MG)](http://startupsebraeminas.com.br/)
+
+        Este painel é uma das atividades da metodologia BootCamp Empreendedorismo em Ação para alunos do ensino médio e técnico profissionalizante, organizado pelo Sebrae MG. O objetivo principal destes paineis é fomentar o ecossistema tecnológico e promover a inovação de Minas Gerais.
+    
+        **Mais informações:** [http://www.sebrae.com.br](http://www.sebrae.com.br/sites/PortalSebrae/ufs/mg?codUf=14)
+
+        <iframe src="//www.slideshare.net/slideshow/embed_code/key/Gd4IQXkkOEmiG" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafaelAvelar1/chatbot-a-revoluo-da-comunicao-entre-pessoas-e-empresas" title="Chatbot - A revolução da comunicação entre pessoas e empresas" target="_blank">Chatbot - A revolução da comunicação entre pessoas e empresas</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/RafaelAvelar1">Rafael Avelar Pacheco</a></strong> </div>
 
 2016
+
+- **Julho:**
+
+    * **Título:** <span class="evidence">Como ser um 'profissional' no desenvolvimento de código.</span>
+    * **Descrição:** Uma breve resenha sobre o livro "The Clean Coder" (O Codificador Limpo) escrito por Robert C. Martin (Uncle Bob). Durante esta palestra abordo alguns dos pontos destacados pelo autor sobre a postura "profissional" de um desenvolvedor de software. 
+
+    * **Evento:** [Café com Bytes 2016](https://www.meetup.com/pt-BR/BHTEC-Talks/events/222168031/)
+
+        O Café Com Bytes é um evento periódico que acontece na [Take](http://take.net), empresa de tecnologia de Belo Horizonte. Durante o evento são discutidos diversos assuntos de interesse da comunidade de desenvolvedores, como: novas tecnologias, projetos realizados na empresa, mercado de mobilidade, mercado de chatbots e etc.
+    
+        **Mais informações:** [https://www.meetup.com/pt-BR/takenet/](https://www.meetup.com/pt-BR/takenet/)
+
+        <iframe src="//www.slideshare.net/slideshow/embed_code/key/CLe0KDXcFOAICn" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafaelAvelar1/como-ser-um-profissional-no-desenvolvimento-de-cdigo" title="Como ser um &#x27;profissional&#x27; no desenvolvimento de código." target="_blank">Como ser um &#x27;profissional&#x27; no desenvolvimento de código.</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/RafaelAvelar1">Rafael Avelar Pacheco</a></strong> </div>
 
 - **Junho:**
 
     * **Título:** <span class="evidence">Criando um ambiente real de distribuição de aplicativos usando TestFairy</span>
-    * **Descrição:** Durante a palestra exploro o TestFairy, uma ferramenta muito interessante para o controle de qualidade de aplicações móveis profissionais. Através dele é possível distribuir aplicativos, de forma real e controlada, além de coletar várias informações durante as execuções dos usuários e testers convidados. 
+    * **Descrição:** Durante a palestra exploro o TestFairy, uma ferramenta muito interessante para o controle de qualidade de aplicações móveis profissionais. Através dele é possível distribuir aplicativos, de forma real e controlada, além de coletar várias informações durante as execuções dos usuários e testers convidados. [Clique aqui](http://ravpacheco.com/distribuindo-aplicativos-com-testFairy/) para saber mais.
 
     * **Evento:** [MTC - Minas Testing Conference](http://minastestingconference.com.br/)
 
@@ -42,7 +77,21 @@ Fotos
         Slides 
 
         <iframe src="//www.slideshare.net/slideshow/embed_code/key/f6CuQfdbxbYRHp" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafaelAvelar1/criando-um-ambiente-real-de-distribuio-de-aplicativos-usando-testfairy" title="Criando um ambiente real de distribuição de aplicativos usando TestFairy" target="_blank">Criando um ambiente real de distribuição de aplicativos usando TestFairy</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/RafaelAvelar1">Rafael A Pacheco</a></strong> </div>
+
 2015
+
+- **Dezembro:**
+
+    * **Título:** <span class="evidence">Let's go log!</span>
+    * **Descrição:** Como melhorar a qualidade do seu processo de log através da stack de ferramentas ELK.
+
+    * **Evento:** [Café com Bytes 2015](https://www.meetup.com/pt-BR/BHTEC-Talks/events/222168031/)
+
+        O Café Com Bytes é um evento periódico que acontece na [Take](http://take.net), empresa de tecnologia de Belo Horizonte. Durante o evento são discutidos diversos assuntos de interesse da comunidade de desenvolvedores, como: novas tecnologias, projetos realizados na empresa, mercado de mobilidade, mercado de chatbots e etc.
+    
+        **Mais informações:** [https://www.meetup.com/pt-BR/takenet/](https://www.meetup.com/pt-BR/takenet/)
+    
+        <iframe src="//www.slideshare.net/slideshow/embed_code/key/wZqikywXK9rMzP" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafaelAvelar1/lets-go-log" title="Let&#x27;s go log!" target="_blank">Let&#x27;s go log!</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/RafaelAvelar1">Rafael Avelar Pacheco</a></strong> </div>
 
 - **Maio:**
 
