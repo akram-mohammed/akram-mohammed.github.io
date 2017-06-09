@@ -14,7 +14,7 @@ category: project
 
 > Resumo semanal Chatbot
 
-Toda semana meu colega Caio Calado escreve um resumo destacando alguns dos artigos mais importantes sobre chatbots em todo o mundo. Voce pode encontrar todos os resumos [aqui](https://medium.com/@caio_caladoo).
+Toda semana o [Caio Calado](https://medium.com/@caio_caladoo) publica, no medium do [BotsBrasil](medium.com/botsbrasil), um resumo destacando alguns dos artigos mais importantes sobre chatbots em todo o mundo. Voce pode encontrar todos os resumos [aqui](https://medium.com/@caio_caladoo).
 
 Todas as terças-feira eu e o Caio fazemos uma live no Facebook falando sobre o resumo atual. A proposta dos vídeos é dar à comunidade nossa visão e opinião sobre diferentes assuntos de chatbot. Aproveitamos o espaço das lives para responder à algumas perguntas vindas da comunidade.
 

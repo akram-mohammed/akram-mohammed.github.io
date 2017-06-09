@@ -14,7 +14,7 @@ category: project
 
 > Chatbot weekly summary
 
-Every week my friend Caio Calado write a summary highlighting some of the most important posts about chatbots around the world. You can found all weekly summaries [here](https://medium.com/@caio_caladoo).
+Every week my friend [Caio Calado](https://medium.com/@caio_caladoo) write on [BotsBrasil](medium.com/botsbrasil) medium a summary highlighting some of the most important posts about chatbots around the world. You can found all weekly summaries [here](https://medium.com/@caio_caladoo).
 
 Every tuesday I and Caio make a Facebook Live Stream talking about the current summary. The videos proposal is give to the community our vision and opinion about chatbot subjects. We also reply some community questions during each live.
 
