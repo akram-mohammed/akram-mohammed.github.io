@@ -20,6 +20,22 @@ Todas as terças-feira eu e o Caio fazemos uma live no Facebook falando sobre o 
 
 Esta página é um diretório com todos os vídeos.
 
+### Semana #029
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1478997748830439%2F&show_text=1&width=560" width="560" height="445" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Semana #028
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1471049366291944%2F&show_text=1&width=560" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Semana #027
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1463530773710470%2F&show_text=1&width=560" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Semana #026
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1454612291268985%2F&show_text=1&width=560" width="560" height="489" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ### Semana #025
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1447482525315295%2F&show_text=1&width=560" width="560" height="444" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
