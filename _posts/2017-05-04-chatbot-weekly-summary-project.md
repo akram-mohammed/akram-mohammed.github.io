@@ -22,19 +22,39 @@ This page is a directory with all videos.
 
 > *Note: All videos are in portuguese*
 
-### Semana #029
+### Week #034
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1519034884826725%2F&show_text=1&width=560" width="560" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Week #033
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1511263305603883%2F&show_text=1&width=560" width="560" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Week #032
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1502698836460330%2F&show_text=1&width=560" width="560" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Week #031
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1494806250582922%2F&show_text=1&width=560" width="560" height="445" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Week #030
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1486770801386467%2F&show_text=1&width=560" width="560" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+### Week #029
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1478997748830439%2F&show_text=1&width=560" width="560" height="445" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-### Semana #028
+### Week #028
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1471049366291944%2F&show_text=1&width=560" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-### Semana #027
+### Week #027
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1463530773710470%2F&show_text=1&width=560" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-### Semana #026
+### Week #026
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1454612291268985%2F&show_text=1&width=560" width="560" height="489" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
