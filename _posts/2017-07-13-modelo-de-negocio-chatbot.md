@@ -21,7 +21,7 @@ externalLink: true
 category: blog
 ---
 
-Ao longo das últimas semanas, recebi muitas mensagens e li comentários de pessoas interessadas em saber sobre modelos de negócios e precificação para projetos de chatbots. Assim, meu objetivo neste artigo é apresentar *insights* sobre modelos que tenho visto em alguns *cases* do mercado. Se você tem uma idéia interessante ou está pensando em desenvolver um chatbot, mas ainda não sabe como monetizar, se liga em algumas dicas.
+Ao longo das últimas semanas, recebi muitas mensagens e li comentários de pessoas interessadas em saber sobre modelos de negócios e precificação para projetos de chatbots. Meu objetivo neste artigo é apresentar *insights* sobre modelos que tenho visto em alguns *cases* do mercado. Se você tem uma idéia interessante ou está pensando em desenvolver um chatbot, mas ainda não sabe como monetizar, se liga em algumas dicas.
 
 Antes de mais nada, é preciso lembrar que um chatbot nada mais é do que um programa de computador, e portanto seu modelo de negócio será baseado nas formas tradicionais de precificação de software. Modelos B2B (*Business to Business*), B2C (*Business to Customer*), SASS (*Software as a Service*), *Pay as you go* e *Subscription*, por exemplo, continuam valendo para qualquer chatbot. **A grande diferença, é que agora, os clientes e sua aplicação estão dentro dos aplicativos de mensagem.** Assim, o grande **desafio** é encontrar a **fórmula certa para entregar serviços de qualidade** e ganhar um preço justo, **em um ambiente em que**, tradicionalmente, **quase tudo é gratuito**.
 
@@ -34,7 +34,7 @@ Se você está prestes a desenvolver um chatbot para alguma empresa e está em d
 
 ## Escopo fechado
 
-Todas as vezes que vamos a um supermercado, pegamos uma *Coca-Cola* na prateleira e passamos no caixa, estamos comprando um produto **com escopo fechado**. Você paga para levar algo sem se preocupar com o processo de fabricação, o único desejo é que o produto satisfaça sua expectativa (no meu caso, que esteja estupidamente gelada e com muito gás ;) ).
+Todas as vezes que vamos a um supermercado, pegamos uma *Coca-Cola* na prateleira e passamos no caixa, estamos comprando um produto **com escopo fechado** 🛍️. Você paga para levar algo sem se preocupar com o processo de fabricação, o único desejo é que o produto satisfaça sua expectativa (no meu caso, que esteja estupidamente gelada e com muito gás 😁).
 
 Quem está acostumado com "freelas" (trabalhos feitos por **freelancers**), sabe bem o que significa escopo fechado. São acordados todos os detalhes da aplicação, a data de entrega, o custo para construir a aplicação, o contrato (caso exista) é assinado e o projeto é executado. Ao final, o desenvolvedor contratado recebe o valor combinado e a empresa contratante recebe o produto, no nosso caso o bot.
 
@@ -44,30 +44,30 @@ Por outro lado, é preciso ficar muito atento quanto a este modo de negociar. Em
 
 ## Revenue share
 
-*Revenue share* (ou em português, receita compartilhada) é um contrato de divisão das receitas (e perdas) entre duas partes em um produto específico. Na prática a relação acontece entre duas partes (pessoas físicas ou jurídicas), onde de um lado existe quem efetivamente cria e mantém o produto e de outro está o responsável por divulgar ou vender o produto. Essa aliança entre faz com que quem a parte que tem o conhecimento operacional para executar um projeto ganhe junto com a outra parte com expertise em vender ou divulgar um determinado conteúdo.
+*Revenue share* (ou em português, receita compartilhada) é um contrato de divisão das receitas (e perdas) entre partes em um produto específico. Na prática a relação acontece entre duas pessoas (físicas e/ou jurídicas), onde de um lado existe quem efetivamente cria e mantém o produto e de outro está o responsável por divulgar ou vender o produto. Essa aliança faz com que a parte que tem o conhecimento operacional, para executar um projeto, ganhe junto com a outra parte, com expertise em vender ou divulgar um determinado conteúdo.
 
-Sabe aquele momento em que você acredita muito em uma idéia, tem certeza que o público de uma determinada empresa vai se amarrar no produto, mas não consegue convencer a empresa de que sua idéia merece atenção ? :( 
+Sabe aquele momento em que você acredita muito em uma idéia, tem certeza que o público de uma determinada empresa vai se amarrar no produto, mas não consegue convencer a empresa de que sua idéia merece atenção ? 😞 
 
 Nesses casos o modelo de *revenue share* (partilha da receita), pode ser a melhor opção. Você precisa apenas convencer a empresa a divulgar o seu bot no canal de comunicação da mesma, e dividir os lucros, caso aconteça. Não estou dizendo que esta é uma tarefa fácil, mas pode ser o caminho para convencer pessoas "cabeça dura".
 
-## Setup inicial + cooparticipação (ou taxa de conveniência)
+## Setup inicial + coparticipação (ou taxa de conveniência)
 
-Neste modelo o desenvolvedor recebe um valor combinado para realizar toda a construção e lançamento do bot (ou de pelo menos uma versão inicial, MVP - *Minimal Viable Product*). A partir deste momento, existe uma parceria entre o desenvolvedor e a empresa contratante para a evolução do chatbot. Ao longo do caminho, as duas partes ganham com o sucesso do produto. Esse sucesso pode ser definido de várias formas: uma porcentagem de cooparticipação nas metas alcançadas, ou através do pagamento de uma taxa de conveniência.
+Neste modelo o desenvolvedor recebe um valor combinado para realizar toda a construção e lançamento do bot (ou de pelo menos uma versão inicial, MVP - *Minimal Viable Product*). Após o lançamento, existe uma parceria entre o desenvolvedor e a empresa contratante para a evolução do chatbot. Ao longo do caminho, as duas partes ganham com o sucesso do produto. Esse sucesso pode ser definido de várias formas: uma porcentagem de coparticipação nas metas alcançadas, ou através do pagamento de uma taxa de conveniência, por exemplo.
 
-Imagine por exemplo um bot de eventos. Neste cenário, é factível cobrar uma taxa de conveniência dos clientes no processo de venda dos ingressos. Essa taxa pode ser revertida para quem construiu e mantém o chatbot. Enquanto isso, a empresa alavanca o processo de venda de tickets, em um novo canal, e fatura cada vez mais.
+Imagine um bot de eventos. Neste cenário, é factível cobrar uma taxa de conveniência dos clientes no processo de venda dos ingressos. Essa taxa pode ser revertida para quem construiu e mantém o chatbot. Enquanto isso, a empresa alavanca o processo de venda de tickets, em um novo canal, e fatura cada vez mais.
 
 # E quanto ao meu chatbot ? Monetizando sua idéia...
 
 <img src="../assets/images/2017-07-13-modelo-de-negocio-chatbot/monetization.jpg" 
     alt="Dúvidas" style="display: block; margin: 0 auto;">
 
-Existem ainda pessoas interessadas em desenvolver seus prórpios chatbots. Se você está nessa situação e ainda tem dúvidas em como monetizar seu negócio, estas são algumas opções:
+Existem também pessoas interessadas em desenvolver seus próprios chatbots. Se você está nessa situação e ainda tem dúvidas em como monetizar seu negócio, estas são algumas opções:
 
 ## Venda direta (produtos e serviços)
 
-Durante a conversa, seu bot provavelmente entrega algo de valor para quem está do outro lado da conversa. Não importa se é um serviço ou um produto (físico ou digital), se o mesmo gerar valor para o cliente então porque não cobrar por isso ?
+Durante a conversa, seu bot provavelmente entrega algo de valor para quem está do outro lado da conversa. Não importa se é um serviço ou um produto (físico ou digital), se o mesmo gerar valor para o cliente, então porque não cobrar por isso ?
 
-Ecommerce, lojas físicas e prestadores de serviços são exemplos de mercados em que os bots podem faturar através da venda direta. Um exemplo brasileiro deste setor é o bot [aliceSeguros](http://m.me/aliceseguros). Com a [alice](http://aliceseguros.me/) é possível fazer a contratação de seguros viagens, pelo facebook, sem complicação.
+Ecommerce, lojas físicas e prestadores de serviços são exemplos de mercados em que os bots podem faturar através da venda direta. Um exemplo brasileiro neste setor é o bot [aliceSeguros](http://m.me/aliceseguros). Com a [alice](http://aliceseguros.me/) é possível fazer a contratação de seguros viagens, pelo facebook, sem complicação.
 
 ## Subscription
 
@@ -75,13 +75,11 @@ O modelo de *subscription* (assinatura) ficou muito conhecido aqui no Brasil nos
 
 Uma das várias vantagens de um bot, é o fato da interação entre a empresa representada e os clientes acontecer de forma simples e direta. Entregar conteúdo e obter alto nível de engajamento são pontos fortes dos chatbots. Assim, uma vez que os clientes enxerguem valor no conteúdo recebido existe uma grande possibilidade de que eles estejam dispostos a pagar um valor recorrente. 
 
-*Exemplo de bot*
-
 ## Publicidade
 
-Vivemos em uma era em que informação e público vale muito dinheiro. Likes, curtidas, views, compartilhamentos e seguidores são novas poderosas moedas. Através deste processo, muitas empresas pagam para ter sua marca (ou conteúdo) distribuída por bons canais de distribuição de conhecimento. 
+Vivemos em uma era em que informação e público valem muito dinheiro. Likes, curtidas, views, compartilhamentos e seguidores são novas poderosas moedas. Através deste processo, muitas empresas pagam para ter sua marca (ou conteúdo), distribuída por bons canais de comunicação. 
 
-Se você possui um bot, que entrega algum conteúdo, e este traz valor para seu público, é provável que sua base de usuário cresca cada vez mais. A medida que sua base cresce, você pode monetizar cada vez mais através de conteúdos patrocinados.
+Se você possui um bot, que entrega algum conteúdo, e este traz valor para seu público, é provável que sua base de usuário cresca cada vez mais. A medida que sua base cresce, você pode monetizar, cada vez mais, através de conteúdos patrocinados.
 
 **Mas atenção, assim como esse modelo pode representar o ganha pão de seu bot, ele pode ser o responsável pelo seu fracasso. Atualmente, as pessoas estão muito seletivas ao que realmente trás valor. É preciso ter muita atenção para que seu bot não pare de entregar conteúdos interessantes e fruste a experiência de seus usuários.**
 
