@@ -12,7 +12,7 @@ tag:
 - life
 - team
 blog: true
-star: true
+star: false
 description: Uma breve reflexão sobre alguns aprendizados que obtive ao longo de vários anos assistindo Power Rangers
 externalLink: true
 category: blog
