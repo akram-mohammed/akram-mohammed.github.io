@@ -6,6 +6,13 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<h2>Mini <b>biografia</b></h2>
+
+Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como líder técnico e desenvolvedor fullstack do BLiP, a plataforma para construção de chatbots, da Take. 
+É apaixonado por tecnologia, adora ensinar, discutir, apresentar suas ideias e influenciar pessoas sobre as coisas que acredita. Tem atuado de forma ativa para a evangelização da comunidade brasileira sobre chatbots e a plataforma BLiP.
+
+<h2><b>Biografia</b> estendida</h2>
+
 <p>Meu nome é Rafael Avelar Pacheco. Eu sou programador, pesquisador e jogador de futebol nos fins de semana. 
 Sou mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação, ambos pelo CEFET-MG.  
 Trabalho como desenvolvedor fullstack e líder técnico na <a href="http://take.net">@take</a>. Também sou membro do 
