@@ -97,18 +97,17 @@ Um bot especializado em um determinado contexto e que conheça muito sobre seu p
 
 De forma geral, **monetizar não é o problema de ninguém que produz código**. Vivemos na era dos software, tudo (absolutamente tudo) precisa de software. Acredito que antes de se preocupar com modelo de negócio ou como precificar seu chatbot, é preciso se preocupar com quem vai utilizá-lo. Se seu produto é bom, se ele resolve um problema das pessoas (ou de uma empresa) e realmente entrega valor ao mundo, então haverá um jeito de ganhar dinheiro com ele. Lembre-se: seu bot não é o fim, é apenas o meio para que pessoas e/ou empresas se comuniquem cada vez melhor.
 
-Tem alguma sugestão ? Gostaria de sugerir outro modelo de negócio para chatbots ? Deixe seu comentário abaixo 👇. Se gostar do artigo compartilhe com seus amigos ❤️, quem sabe ele pode ser útil para outra pessoa também! 😉
+Tem alguma sugestão ? Gostaria de sugerir outro modelo de negócio para chatbots ? Deixe seu comentário abaixo 👇. Se gostar do artigo compartilhe com seus amigos ❤️, quem sabe ele pode ser útil para outra pessoa também! 
 
-Algumas referências e links interessantes (em português, inglês e espanhol):
+Algumas referências e links interessantes (em português, inglês e espanhol): 😉
 
-* https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07
-* https://medium.com/@omeedrz/chatbot-business-models-250fed69f6aa
-* http://www.sietedeoros.com/interesante/modelos-de-negocio-con-chatbots
-* https://medium.com/botsbrasil
-* https://www.messenger.com/t/1644809239157519
-* https://www.messenger.com/t/1703565566559446
-* https://medium.com/botsbrasil/chatbots-e-o-imediatismo-dos-micro-momentos-1ef1b818bfa7
-* https://medium.com/botsbrasil/chatbots-e-os-micro-momentos-cddffd76af53
+* [https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07)
+* [https://medium.com/@omeedrz/chatbot-business-models-250fed69f6aa](https://medium.com/@omeedrz/chatbot-business-models-250fed69f6aa)
+* [http://www.sietedeoros.com/interesante/modelos-de-negocio-con-chatbots](http://www.sietedeoros.com/interesante/modelos-de-negocio-con-chatbots)
+* [https://www.messenger.com/t/1644809239157519](https://www.messenger.com/t/1644809239157519)
+* [https://www.messenger.com/t/1703565566559446](https://www.messenger.com/t/1703565566559446)
+* [https://medium.com/botsbrasil/chatbots-e-o-imediatismo-dos-micro-momentos-1ef1b818bfa7](https://medium.com/botsbrasil/chatbots-e-o-imediatismo-dos-micro-momentos-1ef1b818bfa7)
+* [https://medium.com/botsbrasil/chatbots-e-os-micro-momentos-cddffd76af53](https://medium.com/botsbrasil/chatbots-e-os-micro-momentos-cddffd76af53)
 
 
 
