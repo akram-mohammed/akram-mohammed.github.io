@@ -6,6 +6,7 @@ author: ravpacheco
 lang: pt
 ref: install-jekyll-windows
 image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
 tag:
 - jekyll
 - windows
@@ -13,11 +14,9 @@ tag:
 blog: true
 star: false
 description: Aprenda, passo a passo, como instalar o Jekyll no Windows.
-externalLink: false
+externalLink: true
 category: blog
 ---
-
-[//]: # (entenda melhor porquê aqui)
 
 Recentemente resolvi mudar meu blog do wordpress para o [Jekyll](https://jekyllrb.com/), uma ferramenta para geração de blogs e sites estáticos. Na maior parte do tempo, utilizo máquinas com sistema *Windows* e portanto precisei instalar e configurar o Jekyll em meu ambiente.
 
