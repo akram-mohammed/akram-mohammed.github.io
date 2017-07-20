@@ -1,5 +1,5 @@
 ---
-title:  "Resenha da apresentação "How algorithms shape our world""
+title:  "Como os algoritmos moldam o mundo ? 🤔"
 layout: post
 date:   2017-06-25 14:00:00 +0000
 author: ravpacheco
