@@ -23,7 +23,7 @@ category: blog
 
 Ao longo das últimas semanas, recebi muitas mensagens e li comentários de pessoas interessadas em saber sobre modelos de negócios e precificação para projetos de chatbots. Meu objetivo neste artigo é apresentar *insights* sobre modelos que tenho visto em alguns *cases* do mercado. Se você tem uma idéia interessante ou está pensando em desenvolver um chatbot, mas ainda não sabe como monetizar, se liga em algumas dicas.
 
-Antes de mais nada, é preciso lembrar que um chatbot nada mais é do que um programa de computador, e portanto seu modelo de negócio será baseado nas formas tradicionais de precificação de software. Modelos B2B (*Business to Business*), B2C (*Business to Customer*), SASS (*Software as a Service*), *Pay as you go* e *Subscription*, por exemplo, continuam valendo para qualquer chatbot. **A grande diferença, é que agora, os clientes e sua aplicação estão dentro dos aplicativos de mensagem.** Assim, o grande **desafio** é encontrar a **fórmula certa para entregar serviços de qualidade** e ganhar um preço justo, **em um ambiente em que**, tradicionalmente, **quase tudo é gratuito**.
+Antes de mais nada, é preciso lembrar que um chatbot nada mais é do que um programa de computador, e portanto seu modelo de negócio será baseado nas formas tradicionais de precificação de software. Modelos B2B (*Business to Business*), B2C (*Business to Customer*), SAAS (*Software as a Service*), *Pay as you go* e *Subscription*, por exemplo, continuam valendo para qualquer chatbot. **A grande diferença, é que agora, os clientes e sua aplicação estão dentro dos aplicativos de mensagem.** Assim, o grande **desafio** é encontrar a **fórmula certa para entregar serviços de qualidade** e ganhar um preço justo, **em um ambiente em que**, tradicionalmente, **quase tudo é gratuito**.
 
 Como em qualquer situação da vida, essa mudança carrega lados diferentes de uma mesma moeda, quando o assunto é precificação. Por um lado, construir serviços dentro dos apps de mensagem facilita o desenvolvimento, e pode reduzir o preço de um projeto (se comparado a aplicações tradicionais) - uma vez que o desenvolvedor não precisa se preocupar com diversos pontos como: interface gráfica, distribuição e atualização da aplicação (no *client-side*). Do outro lado da moeda, por se tratar de uma área multidisciplinar, onde os profissionais precisam entender de diversas áreas de conhecimento como: interfaces conversacionais, design de conversas, inteligência artificial, entre outros temas, encontrar pessoas capacitadas pode não ser uma tarefa simples. Assim, até o momento, projetos grandes e complexos nessa área, de forma geral, apresentam um custo de construção elevado.
 
@@ -38,7 +38,9 @@ Todas as vezes que vamos a um supermercado, pegamos uma *Coca-Cola* na prateleir
 
 Quem está acostumado com "freelas" (trabalhos feitos por **freelancers**), sabe bem o que significa escopo fechado. São acordados todos os detalhes da aplicação, a data de entrega, o custo para construir a aplicação, o contrato (caso exista) é assinado e o projeto é executado. Ao final, o desenvolvedor contratado recebe o valor combinado e a empresa contratante recebe o produto, no nosso caso o bot.
 
-Esse modelo é interessante para as duas partes, quem desenvolve recebe e quem paga pode lançar e apostar no sucesso de seu produto. Quanto a valores, minha sugestão é que neste caso o projeto seja cobrado por horas gastas no desenvolvimento. Assim, a complexidade do bot definirá o preço final.
+Não vou entrar em detalhes sobre preços pois acredito que essa escolha depende de uma série de fatores: *expertise* de quem desenvolve, complexidade do projeto, qual o tamanho do cliente, entre outros. Outras pessoas tem compartilhado suas experiências em relação a preço ([1](https://www.quora.com/How-much-does-it-cost-to-build-a-chatbot) e [2](https://blog.botmakers.net/how-much-chatbot-developers-charge-for-facebook-messenger-bots-e60d6628ba20)). Este pode ser um caminho para quem está completamente perdido.
+
+Esse modelo é interessante para as duas partes, quem desenvolve recebe e quem paga pode lançar e apostar no sucesso de seu produto. Quanto a valores, minha sugestão é que neste caso o projeto seja cobrado por horas gastas no desenvolvimento. Assim, a complexidade do bot definirá o preço final. 
 
 Por outro lado, é preciso ficar muito atento quanto a este modo de negociar. Em geral, projetos de escopo fechado não são escaláveis, viver apenas da venda de projetos de escopo fechado pode não ser uma opção para uma empresa que deseja crescer.
 
@@ -95,18 +97,17 @@ Um bot especializado em um determinado contexto e que conheça muito sobre seu p
 
 De forma geral, **monetizar não é o problema de ninguém que produz código**. Vivemos na era dos software, tudo (absolutamente tudo) precisa de software. Acredito que antes de se preocupar com modelo de negócio ou como precificar seu chatbot, é preciso se preocupar com quem vai utilizá-lo. Se seu produto é bom, se ele resolve um problema das pessoas (ou de uma empresa) e realmente entrega valor ao mundo, então haverá um jeito de ganhar dinheiro com ele. Lembre-se: seu bot não é o fim, é apenas o meio para que pessoas e/ou empresas se comuniquem cada vez melhor.
 
-Tem alguma sugestão ? Gostaria de sugerir outro modelo de negócio para chatbots ? Deixe seu comentário abaixo 👇. Se gostar do artigo compartilhe com seus amigos ❤️, quem sabe ele pode ser útil para outra pessoa também! 😉
+Tem alguma sugestão ? Gostaria de sugerir outro modelo de negócio para chatbots ? Deixe seu comentário abaixo 👇. Se gostar do artigo compartilhe com seus amigos ❤️, quem sabe ele pode ser útil para outra pessoa também! 
 
-Algumas referências e links interessantes (em português, inglês e espanhol):
+Algumas referências e links interessantes (em português, inglês e espanhol): 😉
 
-* https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07
-* https://medium.com/@omeedrz/chatbot-business-models-250fed69f6aa
-* http://www.sietedeoros.com/interesante/modelos-de-negocio-con-chatbots
-* https://medium.com/botsbrasil
-* https://www.messenger.com/t/1644809239157519
-* https://www.messenger.com/t/1703565566559446
-* https://medium.com/botsbrasil/chatbots-e-o-imediatismo-dos-micro-momentos-1ef1b818bfa7
-* https://medium.com/botsbrasil/chatbots-e-os-micro-momentos-cddffd76af53
+* [https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07)
+* [https://medium.com/@omeedrz/chatbot-business-models-250fed69f6aa](https://medium.com/@omeedrz/chatbot-business-models-250fed69f6aa)
+* [http://www.sietedeoros.com/interesante/modelos-de-negocio-con-chatbots](http://www.sietedeoros.com/interesante/modelos-de-negocio-con-chatbots)
+* [https://www.messenger.com/t/1644809239157519](https://www.messenger.com/t/1644809239157519)
+* [https://www.messenger.com/t/1703565566559446](https://www.messenger.com/t/1703565566559446)
+* [https://medium.com/botsbrasil/chatbots-e-o-imediatismo-dos-micro-momentos-1ef1b818bfa7](https://medium.com/botsbrasil/chatbots-e-o-imediatismo-dos-micro-momentos-1ef1b818bfa7)
+* [https://medium.com/botsbrasil/chatbots-e-os-micro-momentos-cddffd76af53](https://medium.com/botsbrasil/chatbots-e-os-micro-momentos-cddffd76af53)
 
 
 
