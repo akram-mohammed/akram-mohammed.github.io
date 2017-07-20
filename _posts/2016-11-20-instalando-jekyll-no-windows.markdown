@@ -5,6 +5,7 @@ date: 2016-11-08 22:44
 author: ravpacheco
 lang: pt
 ref: install-jekyll-windows
+image: /assets/images/jekyll-logo-light-solid.png
 tag:
 - jekyll
 - windows
