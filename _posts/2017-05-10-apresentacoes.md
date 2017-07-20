@@ -16,6 +16,27 @@ Lista de algumas das minhas apresentações
 
 > 2017
 
+**Junho:**
+
+* **Título:** <span class="evidence">Google Home, Assistant e Actions</span>
+* **Descrição:** Apresentação sobre Google Home, Google Assistant e Google Actions. Além de explicar os conceitos teóricos dessas tecnologias apresento o "Jack" meu assistente pessoal para o Google Home.
+
+* **Evento:** [7º Meetup Chatbots Brasil](https://www.meetup.com/pt-BR/BHTEC-Talks/events/222168031/)
+
+    O [Chatbot Brasil](medium.com/botsbrasil) é uma comunidade de pessoas interessadas e engajadas a explorar, compartilhar e aprender mais sobre coisas relacionadas a chatbots.
+
+    **Mais informações:** acesse o grupo [ChabotsBrasil no Facebook](https://www.facebook.com/groups/chatbotbrasil/).
+
+    Videos
+
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbotsbrasil%2Fvideos%2F328633604216055%2F&show_text=1&width=560" width="560" height="467" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaioCalado%2Fvideos%2F1506454492751431%2F&show_text=1&width=560" width="560" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+    Slides
+
+    <iframe src="https://www.slideshare.net/RafaelAvelar1/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 **Março:**
 
 * **Título:** <span class="evidence">Boas práticas para a construção de chatbots relevantes</span>
