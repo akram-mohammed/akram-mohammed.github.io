@@ -1,7 +1,7 @@
 ---
 title:  "Como os algoritmos moldam o mundo ? 🤔"
 layout: post
-date:   2017-06-25 14:00:00 +0000
+date:   2017-06-23 14:00:00 +0000
 author: ravpacheco
 lang: pt
 ref: algorithms-shape-world
@@ -10,7 +10,7 @@ tag:
 - algorithms
 - computational-dependency
 blog: true
-star: true
+star: false
 description: Uma breve resenha sobre a apresentação "How algorithms shape our world", de Kevin Slave, feita para o TED em Julho de 2011.
 externalLink: true
 category: blog
