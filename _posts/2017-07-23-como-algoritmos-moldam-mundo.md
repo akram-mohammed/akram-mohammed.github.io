@@ -5,8 +5,6 @@ date:   2017-06-25 14:00:00 +0000
 author: ravpacheco
 lang: pt
 ref: algorithms-shape-world
-#image: /assets/images/
-headerImage: true
 tag: 
 - ted
 - algorithms
@@ -18,7 +16,7 @@ externalLink: true
 category: blog
 ---
 
-> *We live in a world run by algorithms, computer programs that make decisions or solve problems for us. In this riveting, funny talk, Kevin Slavin shows how modern algorithms determine stock prices, espionage tactics, even the movies you watch. But, he asks: If we depend on complex algorithms to manage our daily decisions -- when do we start to lose control?* - Kevin Slavin (TED Global 2011)
+> *"We live in a world run by algorithms, computer programs that make decisions or solve problems for us. In this riveting, funny talk, Kevin Slavin shows how modern algorithms determine stock prices, espionage tactics, even the movies you watch. But, he asks: If we depend on complex algorithms to manage our daily decisions -- when do we start to lose control?"* - Kevin Slavin (TED Global 2011)
 
 <iframe src="https://embed.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
