@@ -53,8 +53,8 @@ Simples, esta palavra representa as iniciais do meu nome <b>R</b>afael <b>Av</b>
 <h2>Currículos</h2>
 
 <ul class="skill-list">
-	<li><a href="https://github.com/">Profissional</a></li>
-	<li><a href="https://github.com/">Currículo Lattes (foco acadêmico)</a></li>
+	<li><a href="{{ site.resume-pt-url }}">Profissional</a></li>
+	<li><a href="{{ site.lattes-pt-url }}">Currículo Lattes (foco acadêmico)</a></li>
 </ul>
 
 <!--

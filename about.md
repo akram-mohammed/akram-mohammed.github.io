@@ -40,12 +40,6 @@ Simple, this word represents initials of my name <b>R</b>afael <b>Av</b>elar <b>
 <h2>Resumes</h2>
 
 <ul class="skill-list">
-	<li><a href="https://github.com/">Professional Resume</a></li>
-	<li><a href="https://github.com/">Lattes Resume (academic focus)</a></li>
+	<li><a href="{{ site.resume-url }}">Professional Resume</a></li>
+	<li><a href="{{ site.lattes-url }}">Lattes Resume (academic focus)</a></li>
 </ul>
-
-<!--
-<h2>Short Bio</h2>
-<p>Put here a short bio to be use on presentations
-</p>
--->
