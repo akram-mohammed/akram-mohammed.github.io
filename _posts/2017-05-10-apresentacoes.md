@@ -19,13 +19,27 @@ Lista de algumas das minhas apresentações. Se tive alguma dúvida sobre qualqu
 ## 2017 
 -----------------------------
 
-* **[Como plataformas podem lhe ajudar a criar um chatbot enxuto](https://www.sympla.com.br/bots-brasil-conf__162267?d=rafael-blip)** - Bots Conference Brazil [**São Paulo - Outubro 2017**]
+* [Como criar seu Chatbot ?](https://goo.gl/3nJNbh) - Episódio 1 [Udacity - Outubro 2017]
 
-* [Por que os desenvolvedores precisam ficar atentos aos chatbots?](#) - DevDay - 2017 [Belo Horizonte - Setembro 2017]
+* [Como criar seu Chatbot ?](https://goo.gl/R5YFWd) - Episódio 2 [Udacity - Outubro 2017]
+
+* [Chatbot Pernambuco Hangout](https://www.youtube.com/watch?v=mNaAqBAcW48&t=4s) - Episódio 4 [ Youtube - Outubro 2017]
+
+* [Introdução a criação de chatbots com o BLiP](http://meloeventos.com.br/conexaoti/) - Conexão TI [ Belo Horizonte - Outubro 2017]
+
+* [Como plataformas podem lhe ajudar a criar um chatbot enxuto](https://www.sympla.com.br/bots-brasil-conf__162267?d=rafael-blip) - Bots Conference Brazil [São Paulo - Outubro 2017]
+
+* [A evolução de um chatbot](#) - PyData Meetup 2017 [Belo Horizonte - Setembro 2017]
+
+* [Por que os desenvolvedores precisam ficar atentos aos chatbots?](#) - DevDay 2017 [Belo Horizonte - Setembro 2017]
 
 * [5 passos para criar e publicar um chatbot pessoal](#) - DevXperience [São Paulo - Setembro 2017]
 
+* [Primeiros passos com Chatbots](https://goo.gl/azybbh) - Webinar Udacity [Udacity - Agosto 2017]
+
 * [Como criar um chatbot incrível ?](#) - Chatbot4Devs [ Belo Horizonte - Agosto 2017]
+
+* [Castálio Podcast](https://www.youtube.com/watch?v=UCToxnuNKQo) - Episódio 107 [ Youtube - Junho 2017]
 
 * [Google Home, Assistant e Actions](http://ravpacheco.com/google-home-apresentacao/) - 7º Meetup Chatbots Brasil [ São Paulo - Junho 2017]
 
