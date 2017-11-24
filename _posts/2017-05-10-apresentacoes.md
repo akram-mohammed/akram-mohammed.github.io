@@ -37,7 +37,7 @@ Lista de algumas das minhas apresentações. Se tive alguma dúvida sobre qualqu
 
 * [Primeiros passos com Chatbots](https://goo.gl/azybbh) - Webinar Udacity [Udacity - Agosto 2017]
 
-* [Como criar um chatbot incrível ?](#) - Chatbot4Devs [ Belo Horizonte - Agosto 2017]
+* [Como criar um chatbot incrível ?](http://ravpacheco.com/chatbot4devs-apresentacao/) - Chatbot4Devs [ Belo Horizonte - Agosto 2017]
 
 * [Castálio Podcast](https://www.youtube.com/watch?v=UCToxnuNKQo) - Episódio 107 [ Youtube - Junho 2017]
 
