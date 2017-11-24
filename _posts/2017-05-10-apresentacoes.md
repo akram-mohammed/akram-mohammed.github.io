@@ -35,7 +35,7 @@ Lista de algumas das minhas apresentações. Se tive alguma dúvida sobre qualqu
 
 * [5 passos para criar e publicar um chatbot pessoal](#) - DevXperience [São Paulo - Setembro 2017]
 
-* [Primeiros passos com Chatbots](https://goo.gl/azybbh) - Webinar Udacity [Udacity - Agosto 2017]
+* [Primeiros passos com Chatbots](https://goo.gl/azybbh) - Webinar Udacity [Udacity - Agosto 2017]. [Link](https://www.youtube.com/embed/k4MdI-rhvyA) para o vídeo
 
 * [Como criar um chatbot incrível ?](http://ravpacheco.com/chatbot4devs-apresentacao/) - Chatbot4Devs [ Belo Horizonte - Agosto 2017]
 
