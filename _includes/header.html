@@ -1,51 +1,34 @@
-{% if page.title == "Home"
-   or page.title == "Início"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Projetos"
-   or page.title == "Tags"
-   or page.title == "Categorias"
-%}{% assign showHeader = true %}{% endif %}
+{% if page.title == "Home" or page.title == "Início" or page.title == "Blog" or page.title == "Projects" or page.title ==
+"Projetos" or page.title == "Tags" or page.title == "Categorias" %}{% assign showHeader = true %}{% endif %} {% if showHeader
+== true %}
+<header class="header-home {% if site.animation %}animated{% endif %}">
+    {% if site.about %}
+    <a class="link" href="{{ site.url }}/about">
+        <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}"
+        />
+    </a>
+    {% else %}
+    <span class="link">
+        <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}"
+        />
+    </span>
+    {% endif %}
 
-{% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
+    <h1 class="title">{{ site.name }}</h1>
+    <h2 class="description">{{ site.bio }}</h2>
 
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+    {% include social-links.html %}
+</header>
+{% endif %} {% include nav.html %}
 
-        {% include social-links.html %}
-    </header>
-{% endif %}
-
-{% include nav.html %}
-
-<script src="https://unpkg.com/blip-chat-web@0.1.22" type="text/javascript"></script>
+<script src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
 <script>
-  (function () {
-
-    var options = 
-    {
-        config: {
-            authType: BlipWebSDK.AuthType.LOGIN
-        },
-        window: {
-            title: 'Send me a message 😉',
-            hideMenu: false,
-            widgetColor: '#222'
+    (function () {
+        window.onload = function () {
+            new BlipChat()
+                .withAppKey('cGFjaGVjb2JvdDo0MUNDQzRDRS02Rjk4LTQ4NEQtOEM1MC02MTEzRDkzMUE5Q0Y=')
+                .withButton({ "color": "#2CC3D5" })
+                .build();
         }
-    };
-
-    new BlipWebSDK.ChatBuilder()
-      .withApiKey('3CE58724-1073-4823-922F-5BFE757BA4A6')
-      .build(options);
-  })();
+    })();
 </script>
