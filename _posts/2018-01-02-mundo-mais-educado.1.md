@@ -51,7 +51,7 @@ Percebendo a situação, a mãe foi até o garoto, colocou-o no colo e saiu sem 
 
 É óbvio que não posso culpar a criança por atrapalhar o café da senhora, ele ainda não é capaz de perceber que sua brincadeira provocou incômodo a outra pessoa. Por outro lado, a mãe poderia ensinar ao filho que aquele comportamento não era adequado. Na infância aprendemos por imitação, logo provocar experiências assim ajuda na construção de discernimento da criança.
 
-
+...
 
 Vivemos cada vez mais nervosos, estressados, apressados e ansiosos. Infelizmente, esse estado de espírito reflete em nossa saúde e em nossas relações interpessoais. O mais grave é que nossos problemas interpessoais provocam um clico de mais nervosismo, stress e ansiedade.
 
