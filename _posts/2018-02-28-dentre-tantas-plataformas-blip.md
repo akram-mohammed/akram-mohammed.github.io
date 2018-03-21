@@ -116,7 +116,7 @@ Pensando nisso, o BLiP disponibiliza SDKs (*C\#, JavaScript e JAVA*) e uma API H
 
 Diferente da grande maioria de plataformas de bots, o BLiP possui diversas ferramentas que acompanham a equipe durante todo o ciclo de vida de um bot, desde sua ideação até sua evolução.
 
-![https://cdn-images-1.medium.com/max/800/1*tW-B0x-XSGlozpFPnsBjbQ.png](Ciclo de vida de um bot.)
+![Ciclo de vida de um bot.](https://cdn-images-1.medium.com/max/800/1*tW-B0x-XSGlozpFPnsBjbQ.png)
 
 *Ciclo de vida de um bot.*
 
