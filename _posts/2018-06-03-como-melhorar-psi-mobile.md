@@ -54,11 +54,11 @@ Para minha surpresa, após adicionar o componente o PSI mobile da minha página 
 
 A justificativa pela queda de pontuação é o fato das tags **scripts** travarem o carregamento do restante da página, enquanto o arquivo do componente é baixado pelo browser.
 
-Para contornar esse problema, uma estratégia simples é adicionar o atributo **async** (sim, apenas 5 caracteres) nos blocos scripts.
+Para contornar esse problema, uma estratégia simples é adicionar o atributo **async** (sim, apenas 5 caracteres) nos blocos scripts. Scripts que possuem o atributo **async** são executados em asincronamente, antes mesmo de todo o processo de parsing da página.
 
 ```html
 <script async src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
-<script async>
+<script >
     (function () {
         window.onload = function () {
             new BlipChat()
@@ -74,9 +74,10 @@ Após adicionar o atributo **async**, realizei uma nova análise na página e re
 
 ![Exemplo de utilização do chatbot no Messenger](../assets/images/2018-06-03-como-melhorar-psi-mobile/after.png)
 
+Uma outra opção para casos como esses é usar o atributo **defer** (também 5 caracteres) que posterga a execução do script para depois do parsing da página. Para saber mais sobre esses atributos veja os links [[1]](https://www.w3schools.com/tags/att_script_async.asp) e [[2]](https://www.w3schools.com/tags/att_script_defer.asp).
+
 ## Conclusão
 
 Resumindo: Apresentei a ferramenta PSI, utilizada pelo Google para metrificar a performance e rankear paginas web, e demonstrei como melhorar a performance da sua aplicação utilizando o atributo **async**.
 
 Gostou da dica? Concorda com meus argumentos? Tem alguma sugestão? Gostaria de sugerir outro ponto de vista ou criticar algo? Deixe seu comentário abaixo 👇. Se gostar do artigo compartilhe com seus amigos, quem sabe ele pode ser útil para outra pessoa também! 😉
-
