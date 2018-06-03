@@ -12,11 +12,32 @@ jemoji: ":memo:"
 category: project
 ---
 
-Lista de algumas das minhas apresentações. Se tive alguma dúvida sobre qualquer apresentação me envie uma mensagem ;).
+Algumas das minhas apresentações. Se tive alguma dúvida sobre qualquer apresentação me envie uma mensagem ;).
 
 <div class="breaker"></div>
 
-## 2017 
+## Em breve
+-----------------------------
+
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (São Paulo - Junho 2018)
+
+* [Criando chatbots na prática](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/workshop-criando-chatbots-na-pratica) - Workshop TDC (São Paulo - Julho 2018)
+
+* [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - Agosto 2018)
+
+## 2018
+-----------------------------
+
+* [O que aprendemos no Google IO e no F8 - 2018](https://www.youtube.com/watch?v=90N-UZBF388) - Webinar sobre bots da Take  [Belo Horizonte - Maio 2018]
+
+* [BLiP por trás das cortinas. Como é arquitetura da maior plataforma de bots do Brasil](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-arquitetura) - TDC Florianópolis 2018 [Florianópolis - Abril 2018]
+
+* [Google Assistant, apps e actions, bem vindo ao mundo dos assistentes de voz](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-computacao-cognitiva) - TDC Florianópolis 2018 [Florianópolis - Abril 2018]
+
+
+* [Gestão de TI e Chatbots - Quais os desafios e como superá-los?](https://www.youtube.com/watch?v=I9VP1bddZqA) - Webinar sobre bots da Take [Belo Horizonte - Abril 2018]
+
+## 2017
 -----------------------------
 
 * [Como criar seu Chatbot ?](https://goo.gl/3nJNbh) - Episódio 1 [Udacity - Outubro 2017]
