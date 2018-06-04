@@ -6,13 +6,13 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como _developer advocate_ no [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net).
+Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como _developer advocate_ do [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net).
 É apaixonado por tecnologia e futebol. Adora ensinar, discutir e apresentar suas ideias sobre as coisas que acredita. 
 Nos últimos anos, tem se esforçado para ensinar tudo o que sabe sobre bots e a plataforma BLiP.
 
 <h2><b>Biografia</b> estendida</h2>
 
-<p>Rafael Avelar Pacheco, brasileiro, natural de Sete Lagoas nascido em 08 de dezembro de 1990, mora em Belo Horizonte, é bacharel em Engenharia de Computação e mestre em Modelagem Matemática e Computacional pelo CEFET-MG. Durante a faculdade de engenharia mudou-se para a cidade do Porto, em Portugal, e estudou por um período na Faculdade de Ciências da Universidade do Porto. 
+Rafael Avelar Pacheco, brasileiro, natural de Sete Lagoas nascido em 08 de dezembro de 1990, mora em Belo Horizonte, é bacharel em Engenharia de Computação e mestre em Modelagem Matemática e Computacional pelo CEFET-MG. Durante a faculdade de engenharia mudou-se para a cidade do Porto, em Portugal, e estudou por um período na Faculdade de Ciências da Universidade do Porto. 
 
 Antes de entrar para a faculdade dividia o tempo entre os estudos, video games e futebol. Apesar de nunca ter se profissionalizado como jogador de futebol, já disputou alguns campeonatos relevantes no brasil, como o [JIMI 2007](http://jimi.esportes.mg.gov.br/) e [JIF 2010](http://portal.mec.gov.br/todas-as-noticias/209-noticias/564834057/15469-jogos-vao-reunir-2-mil-alunos-da-rede-federal-em-brasilia). Além de muitos amigos, o futebol trouxe aprendizados e experiências de vida importantes, como: trabalhar em equipe, controlar a ansiedade, nunca desistir e, principalmente, **saber perder**.
 
@@ -27,13 +27,10 @@ Em 2011 teve sua primeira experiência formal de trabalho, para uma importante t
 <!-- falar sobre apresentações -->
 
 Atualmente, é *developer advocate* do [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net). Entre outras coisas, ajuda (direta ou indiretamente) mais de 3500 desenvolvedores como utilizar o BLiP para construir aplicações conversacionais. Durante todos os anos de trabalho já desempenhou diferentes papeis: estagiário em análise de dados, estagiário em desenvolvimento, engenheiro de software e líder técnico. Nos fins de semana insiste em jogar futebol e atua como ponta direita do [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/).
-</p>  
 
-<p>
 Os principais hobbys são: conhecer lugares diferentes, ler, escrever, assistir um bom filme - preferencialmente no cinema, programar, pesquisar projetos open source, participar de eventos de tecnologia, jogar video game e estudar assuntos "não convencionais". 
 
 Ocasionalmente, escreve sobre desenvolvimento, chatbots e assuntos aleatórios para seu [blog pessoal](http://ravpacheco.com/blog/) e sites como: [InfoQ](http://infoq.com/), [ChatbotsBrasil](https://chatbotsbrasil.take.net/), [BotsBrasil](https://medium.com/botsbrasil).
-</p>
 
 <div class="breaker"></div>
 
