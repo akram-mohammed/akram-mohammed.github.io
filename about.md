@@ -24,7 +24,7 @@ I would love if you would try talk with one of them on Messenger, Telegram, Skyp
 
 But, if you just want to email me, go ahead send an email to ravpacheco@gmail.com ;)
  
-<h2>But why <b>ravpacheco</b>?</h2>
+<h2>Why <b>ravpacheco</b>?</h2>
 
 <p>Probabbly you are quenstion yourself why my blog and a lot of my social networks identifiers is <b>ravpacheco</b>?
 Simple, this word represents initials of my name <b>R</b>afael <b>Av</b>elar <b>Pacheco</b> :).
