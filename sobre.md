@@ -26,7 +26,7 @@ Em 2011 teve sua primeira experiência formal de trabalho, para uma importante t
 
 <!-- falar sobre apresentações -->
 
-Atualmente, é *developer advocate* do [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net). Entre outras coisas, ajuda (direta ou indiretamente) mais de 3500 desenvolvedores como utilizar o BLiP para construir aplicações conversacionais. Durante todos os anos de trabalho já desempenhou diferentes papeis: estagiário em análise de dados, estagiário em desenvolvimento, engenheiro de software e líder técnico. Nos fins de semana insiste em jogar futebol e atua como ponta direita do [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/).
+Atualmente, é *developer advocate* do [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net). Entre outras coisas, ajuda (direta ou indiretamente) mais de 4500 desenvolvedores como utilizar o BLiP para construir aplicações conversacionais. Durante todos os anos de trabalho já desempenhou diferentes papeis: estagiário em análise de dados, estagiário em desenvolvimento, engenheiro de software e líder técnico. Nos fins de semana insiste em jogar futebol e atua como ponta direita do [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/).
 
 Os principais hobbys são: conhecer lugares diferentes, ler, escrever, assistir um bom filme - preferencialmente no cinema, programar, pesquisar projetos open source, participar de eventos de tecnologia, jogar video game e estudar assuntos "não convencionais". 
 
