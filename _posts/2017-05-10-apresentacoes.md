@@ -12,21 +12,28 @@ jemoji: ":memo:"
 category: project
 ---
 
-Algumas das minhas apresentações. Se tive alguma dúvida sobre qualquer apresentação me envie uma mensagem ;).
+A lista abaixo apresenta algumas das minhas apresentações. Para dúvidas sobre um dos assuntos ou convites para eventos envie me uma mensagem 😉.
 
 <div class="breaker"></div>
 
 ## Em breve
 -----------------------------
 
-* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (São Paulo - Junho 2018)
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (Porto Alegre - Outubro 2018)
 
-* [Criando chatbots na prática](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/workshop-criando-chatbots-na-pratica) - Workshop TDC (São Paulo - Julho 2018)
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (Recife - Setembro 2018)
 
 * [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - Agosto 2018)
 
 ## 2018
 -----------------------------
+* [Google Assistant, apps e actions, bem vindo ao mundo dos assistentes de voz](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-computacao-cognitiva) - TDC (São Paulo - July 2018)
+
+* [Criando chatbots na prática](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/workshop-criando-chatbots-na-pratica) - Workshop TDC (São Paulo - Julho 2018)
+
+* [TDC Hack Day - Chatbots](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/hackathon-hackday-chatbots) - TDC (São Paulo - July 2018)
+
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (São Paulo - Junho 2018)
 
 * [O que aprendemos no Google IO e no F8 - 2018](https://www.youtube.com/watch?v=90N-UZBF388) - Webinar sobre bots da Take  [Belo Horizonte - Maio 2018]
 
