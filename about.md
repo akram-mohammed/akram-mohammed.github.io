@@ -40,7 +40,7 @@ Together with professional activities made some private and social projects, lik
 <!-- falar sobre apresentações -->
 
 Nowadays, is *developer advocate* at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbots platform.
-Among other things, helps (direct or indirectly) more than 4500 developers and companies how to use BLiP to build great 
+Among other things, helps (direct or indirectly) more than 5000 developers and companies around the world about how to use BLiP to build great 
 conversational applications. From developer intern to technical leader already had different roles. Every weekend keep 
 trying to play soccer and is the forward of [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/).
 
