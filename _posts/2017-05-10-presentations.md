@@ -23,10 +23,11 @@ Some of my presentations. For questions about any subject or invites for events,
 
 * [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (Recife - September 2018)
 
-* [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - August 2018)
-
 ## 2018
 -----------------------------
+* [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - August 2018)
+
+* [CloudWeekend](http://www.cloudweekend.com.br/palestra/?titulo=criando-bots-com-blip) - Criando bots com BLiP (Online - August 2018)
 
 * [TDC Hack Day - Chatbots](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/hackathon-hackday-chatbots) - TDC (São Paulo - July 2018)
 
