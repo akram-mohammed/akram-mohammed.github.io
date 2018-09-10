@@ -11,6 +11,12 @@ Works as _developer advocate_ at [BLiP](http://blip.ai/), [Take's](https://take.
 Loves technology and soccer. Likes teach, discuss and talk about things that belive.
 In the last years, has made efforts to teach for everyone everything that knows about bots and BLiP platform.
 
+<h2><b>Images</b> to events materials</h2>
+
+Some images to be used in marketing materials of any event. There are different images with different size and densities. You are free to choose anyone.
+
+![]()
+
 <h2><b>Full</b> BIO</h2>
 
 Rafael Avelar Pacheco, brazillian, from Sete Lagoas city borned on 1990 December 08 and currently lives at Belo Horizonte. 

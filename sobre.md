@@ -6,7 +6,7 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como _developer advocate_ do [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net).
+Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como _developer advocate_ do [BLiP](http://blip.ai/), a plataforma para construção de bots da [Take](https://take.net).
 É apaixonado por tecnologia e futebol. Adora ensinar, discutir e apresentar suas ideias sobre as coisas que acredita. 
 Nos últimos anos, tem se esforçado para ensinar tudo o que sabe sobre bots e a plataforma BLiP.
 
