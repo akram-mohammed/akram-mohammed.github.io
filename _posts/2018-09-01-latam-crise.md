@@ -46,7 +46,7 @@ Seus funcionários do check-in, definitivamente, não parecem estar preparados p
 
 Vamos a alguns exemplos:
 
-1. Seu funcionário precisa imprimir um *voucher*ß de alimentação para cada passageiro. Todos estão na mesma situação, será que não seria melhor já deixar uma pilha de *vouchers* impressos?
+1. Seu funcionário precisa imprimir um *voucher* de alimentação para cada passageiro. Todos estão na mesma situação, será que não seria melhor já deixar uma pilha de *vouchers* impressos?
 
 2. Todo o caminho entre o guichê e a impressora é bloqueado pelas esteiras que levam as bagagens despachadas. Assim, o funcionário precisa dar uma volta enorme so para buscar cada papel impresso para cada passageiro.
 
