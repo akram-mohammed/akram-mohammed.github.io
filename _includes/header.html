@@ -34,7 +34,7 @@
                     document.getElementById('blip-chat-container').setAttribute('style', 'bottom:auto !important');
                 }
             };
-            new BlipChat()
+            var client = new BlipChat()
                 .withAppKey('cGFjaGVjb2JvdDo0MUNDQzRDRS02Rjk4LTQ4NEQtOEM1MC02MTEzRDkzMUE5Q0Y=')
                 .withButton({ "color": '#222222' })
                 .withEventHandler(BlipChat.ENTER_EVENT, function () {
@@ -46,6 +46,9 @@
                     var q = window.matchMedia('(max-width: 480px)');
                     setBottom(q, 'auto') ;
                     q.addListener(setBottom);
+                })
+                .withEventHandler(BlipChat.LOAD_EVENT, function (client) {
+                    client.toogleChat(); //método responsável por abrir a janela.
                 })
                 .build();
         }
