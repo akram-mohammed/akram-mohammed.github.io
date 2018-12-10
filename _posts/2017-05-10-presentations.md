@@ -12,21 +12,30 @@ jemoji: ":memo:"
 category: project
 ---
 
-Some of my presentations. Leave me a message if you have a question ;).
+Some of my presentations. For questions about any subject or invites for events, please send me a message 😉.
 
 <div class="breaker"></div>
 
 ## Coming Soon
 -----------------------------
 
-* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (São Paulo - June 2018)
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (Porto Alegre - October 2018)
 
-* [Criando chatbots na prática](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/workshop-criando-chatbots-na-pratica) - Workshop TDC (São Paulo - July 2018)
-
-* [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - August 2018)
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (Recife - September 2018)
 
 ## 2018
 -----------------------------
+* [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - August 2018)
+
+* [CloudWeekend](http://www.cloudweekend.com.br/palestra/?titulo=criando-bots-com-blip) - Criando bots com BLiP (Online - August 2018)
+
+* [TDC Hack Day - Chatbots](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/hackathon-hackday-chatbots) - TDC (São Paulo - July 2018)
+
+* [Google Assistant, apps e actions, bem vindo ao mundo dos assistentes de voz](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-computacao-cognitiva) - TDC (São Paulo - July 2018)
+
+* [Criando chatbots na prática](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/workshop-criando-chatbots-na-pratica) - Workshop TDC (São Paulo - July 2018)
+
+* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (São Paulo - June 2018)
 
 * [O que aprendemos no Google IO e no F8 - 2018](https://www.youtube.com/watch?v=90N-UZBF388) - Take's Webinar about bots [Belo Horizonte - May 2018]
 
