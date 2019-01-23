@@ -1,6 +1,6 @@
 # main text of home
 name: Akram Mohammed
-bio: I'm trying predict the abnormal conditions through machine learning
+bio: I'm trying to predict the abnormal conditions through machine learning
 
 # twitter summary info
 description: Machine learning enthusiast 
@@ -12,7 +12,7 @@ picture: assets/images/pic.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 #resume-url: https://goo.gl/OFHFV8
 #resume-pt-url: https://goo.gl/LRzSG3
@@ -20,7 +20,7 @@ resume-external: true
 #lattes-pt-url: http://lattes.cnpq.br/6347254071071364
 #url: http://ravpacheco.com
 
-# your url: http://USERNAME.github.io
+url: http://akram-mohammed.github.io
 # real-url: ravpacheco.com
 permalink: /:title/
 
@@ -50,8 +50,8 @@ github: akram-mohammed
 # stackoverflow: 3613766/rafael-pacheco
 # quora: userquora
 # reddit: username
-# medium: ravpacheco
-#vimeo: myvimeo
+# medium: username
+#vimeo: username
 email: akrammohd@gmail.com
 
 authors:
@@ -60,7 +60,7 @@ authors:
         bio: Just another guy that learn all the days
         external-image: false
         picture: assets/images/pic.png
-        twitter: ravpachecco
+        twitter: akram9
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -72,14 +72,14 @@ width: normal
 #paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+#read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
