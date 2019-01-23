@@ -1,3 +1,5 @@
+<head><link rel="shortcut icon" href="assets/images/favicon/favicon-32x32.png" type="image/x-icon"></head>
+
 ---
 title: About
 layout: page
