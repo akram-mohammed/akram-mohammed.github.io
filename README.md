@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">My personal website and blog based on <a href="http://sergiokopplin.github.io/indigo/">Indigo Minimalist Jekyll Template</a> - <a href="http://ravpacheco.com">Demo</a> ·</h2>
+    <h2 align="center">My personal website and blog based on <a href="http://sergiokopplin.github.io/indigo/">Indigo Minimalist Jekyll Template</a> - <a href="https://akram-mohammed.github.io">Demo</a> ·</h2>
 </p>
 
 <p align="center">I use this site as a directory of my projects, my social links and my blog. I'm trying to put all of my professional stuffs here</p>
