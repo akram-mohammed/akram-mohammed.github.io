@@ -55,7 +55,8 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
+[MIT](http://akram-mohammed.mit-license.org/) License © Akram Mohammed
 
-[MIT](http://kopplin.mit-license.org/) License © Rafael Pacheco
+[MIT](http://kopplin.mit-license.org/) License © Rafael Pacheco (template)
 
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin (template)
