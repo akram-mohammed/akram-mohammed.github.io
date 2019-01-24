@@ -1,8 +1,6 @@
 ---
 title: About
 layout: page
-lang: en
-ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
