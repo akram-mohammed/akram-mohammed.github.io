@@ -24,7 +24,7 @@
 ## Setup
 
 0. :star: to the project. :metal:
-2. Fork the project (https://github.com/akram-mohammed/akram-mohammed/fork)
+2. Fork the project (https://github.com/akram-mohammed/akram-mohammed.github.io/fork)
 3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
 4. Write some posts :bowtie:
 
