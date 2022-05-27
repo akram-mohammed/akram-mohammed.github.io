@@ -8,12 +8,12 @@ description: Machine learning enthusiast
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/pic.png
+picture: assets/images/akram-mohammed-1s.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
+resume-external: false
 #resume-url: https://goo.gl/OFHFV8
 #resume-pt-url: https://goo.gl/LRzSG3
 #lattes-url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4479514T6&idiomaExibicao=2
@@ -59,7 +59,7 @@ authors:
         name: Akram Mohammed
         bio: Just another guy that learn all the days
         external-image: false
-        picture: assets/images/pic.png
+        picture: assets/images/akram-mohammed-1s.png
         twitter: akram9
     
 # do you want a larger site? change the option below
@@ -68,8 +68,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-#paginate: 15
-#paginate_path: "blog/:num/"
+paginate: 15
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
@@ -79,7 +79,7 @@ about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
-#read-time: true
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
@@ -102,5 +102,5 @@ gems:
   - jekyll-feed
   - jemoji
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+    #base_url: https://github.com
