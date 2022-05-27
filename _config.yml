@@ -7,7 +7,7 @@ description: Machine learning enthusiast
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/akram-mohammed-1s.jpg
 
 # If you want to include your resume, set to true
@@ -59,7 +59,7 @@ authors:
         name: Akram Mohammed
         bio: Just another guy that learn all the days
         external-image: false
-        picture: assets/images/akram-mohammed-1s.jpg
+        #picture: assets/images/akram-mohammed-1s.jpg
         twitter: akram9
     
 # do you want a larger site? change the option below
@@ -68,8 +68,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 15
-paginate_path: "blog/:num/"
+#paginate: 15
+#paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
