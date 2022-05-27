@@ -8,7 +8,7 @@ description: Machine learning enthusiast
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/akram-mohammed-1s.png
+picture: assets/images/akram-mohammed-1s.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -59,7 +59,7 @@ authors:
         name: Akram Mohammed
         bio: Just another guy that learn all the days
         external-image: false
-        picture: assets/images/akram-mohammed-1s.png
+        picture: assets/images/akram-mohammed-1s.jpg
         twitter: akram9
     
 # do you want a larger site? change the option below
@@ -96,7 +96,7 @@ show-author: true
 # do you want some animations?
 animation: true
 
-gems:
+#gems:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
