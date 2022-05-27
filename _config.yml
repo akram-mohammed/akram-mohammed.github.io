@@ -96,11 +96,11 @@ show-author: true
 # do you want some animations?
 animation: true
 
-#gems:
+gems:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jemoji
 
-#jekyll-mentions:
-    #base_url: https://github.com
+jekyll-mentions:
+    base_url: https://github.com
